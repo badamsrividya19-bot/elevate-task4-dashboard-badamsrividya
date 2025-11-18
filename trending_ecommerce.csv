@@ -1,0 +1,1501 @@
+order_id,order_date,category,sub_category,region,channel,payment_method,quantity,unit_price,discount_pct,sales,profit,customer_segment
+200000,2023-07-29,Sports,Fitness,West,Online,Netbanking,1,102.11,15.0,86.79,6.58,Returning
+200001,2023-08-12,Home & Kitchen,Furniture,East,Online,Card,2,68.27,5.0,129.71,43.77,New
+200002,2023-05-20,Sports,Fitness,West,Retail,Card,1,32.59,25.0,24.44,2.95,New
+200003,2022-11-20,Fashion,Kids,South,Online,UPI,3,130.89,0.0,392.67,117.72,VIP
+200004,2022-07-31,Home & Kitchen,Kitchenware,North,Mobile App,UPI,3,79.6,20.0,191.04,19.22,Returning
+200005,2022-06-10,Fashion,Kids,North,Retail,Card,2,26.22,0.0,52.44,1.28,New
+200006,2023-05-20,Home & Kitchen,Kitchenware,North,Mobile App,UPI,2,36.85,10.0,66.33,0.66,New
+200007,2023-05-01,Electronics,Accessories,South,Online,Card,1,164.09,25.0,123.07,26.22,Returning
+200008,2022-01-11,Sports,Outdoor,North,Online,Card,1,166.09,0.0,166.09,29.48,VIP
+200009,2022-07-26,Home & Kitchen,Furniture,West,Online,Card,2,181.4,25.0,272.1,39.8,New
+200010,2022-02-10,Electronics,Audio,North,Online,COD,2,98.85,10.0,177.93,30.81,Returning
+200011,2022-08-18,Home & Kitchen,Kitchenware,East,Mobile App,COD,1,64.84,25.0,48.63,3.95,Returning
+200012,2023-02-12,Health,Supplements,North,Online,COD,3,32.27,10.0,87.13,17.04,Returning
+200013,2022-12-24,Home & Kitchen,Kitchenware,South,Online,UPI,1,36.32,20.0,29.06,3.23,New
+200014,2023-01-03,Sports,Fitness,East,Online,Netbanking,1,133.16,20.0,106.53,8.22,New
+200015,2022-08-01,Fashion,Kids,North,Online,Netbanking,3,109.52,0.0,328.56,79.99,New
+200016,2022-05-25,Sports,Fitness,North,Retail,Netbanking,3,44.57,15.0,113.65,25.27,New
+200017,2023-05-31,Sports,Outdoor,West,Marketplace,UPI,3,106.53,15.0,271.65,38.89,Returning
+200018,2022-08-17,Home & Kitchen,Kitchenware,North,Online,COD,1,48.57,15.0,41.28,5.35,Returning
+200019,2023-10-20,Electronics,Laptops,East,Online,Card,1,118.82,20.0,95.06,22.82,Returning
+200020,2023-04-10,Fashion,Women,South,Online,Card,2,28.44,20.0,45.5,4.96,Returning
+200021,2023-09-24,Sports,Outdoor,East,Online,Card,1,136.73,0.0,136.73,18.63,Returning
+200022,2023-12-17,Electronics,Accessories,North,Online,Card,3,137.88,10.0,372.28,62.65,New
+200023,2023-03-06,Home & Kitchen,Decor,South,Online,Card,1,70.15,0.0,70.15,9.7,Returning
+200024,2023-03-25,Home & Kitchen,Kitchenware,South,Online,Card,3,44.08,10.0,119.02,32.72,Returning
+200025,2023-04-22,Fashion,Women,South,Retail,UPI,2,233.6,0.0,467.2,118.19,VIP
+200026,2023-08-09,Electronics,Phones,East,Mobile App,Card,3,84.19,0.0,252.57,27.27,Returning
+200027,2022-01-28,Fashion,Kids,North,Online,Card,1,68.32,0.0,68.32,9.16,Returning
+200028,2022-09-27,Home & Kitchen,Furniture,West,Online,COD,1,342.16,25.0,256.62,21.03,New
+200029,2022-04-01,Fashion,Kids,North,Retail,COD,1,43.42,20.0,34.74,3.91,Returning
+200030,2022-02-11,Fashion,Women,South,Online,COD,3,317.72,20.0,762.53,225.93,Returning
+200031,2022-08-23,Home & Kitchen,Furniture,North,Marketplace,Netbanking,3,68.46,15.0,174.57,29.57,New
+200032,2023-01-16,Fashion,Kids,South,Online,UPI,1,100.9,15.0,85.77,8.85,Returning
+200033,2023-02-25,Fashion,Women,West,Mobile App,Card,2,41.23,0.0,82.46,25.24,Returning
+200034,2022-10-26,Electronics,Laptops,South,Mobile App,UPI,1,221.08,5.0,210.03,41.32,Returning
+200035,2022-05-08,Home & Kitchen,Furniture,South,Online,UPI,3,238.74,10.0,644.6,32.66,Returning
+200036,2023-03-14,Electronics,Audio,South,Online,Card,2,194.63,25.0,291.94,30.41,Returning
+200037,2023-09-06,Fashion,Men,North,Retail,Card,2,241.53,20.0,386.45,24.24,Returning
+200038,2022-08-09,Electronics,Audio,East,Online,Card,2,304.09,20.0,486.54,83.3,New
+200039,2023-02-20,Health,Personal Care,North,Mobile App,Card,1,170.29,25.0,127.72,8.01,VIP
+200040,2023-07-19,Health,Personal Care,North,Online,COD,3,69.21,15.0,176.49,21.99,New
+200041,2023-08-09,Home & Kitchen,Kitchenware,East,Retail,Netbanking,1,181.18,0.0,181.18,51.59,Returning
+200042,2023-08-21,Sports,Fitness,North,Online,Netbanking,1,121.3,20.0,97.04,0.97,New
+200043,2022-02-22,Fashion,Women,East,Retail,COD,1,43.21,5.0,41.05,15.22,Returning
+200044,2023-08-28,Fashion,Women,South,Online,UPI,1,54.38,0.0,54.38,21.66,VIP
+200045,2022-11-08,Sports,Fitness,West,Online,COD,3,259.5,0.0,778.5,156.3,New
+200046,2023-07-29,Fashion,Men,West,Mobile App,UPI,1,132.74,25.0,99.56,6.47,Returning
+200047,2023-11-24,Sports,Outdoor,East,Marketplace,UPI,1,51.71,5.0,49.12,8.81,New
+200048,2022-07-04,Electronics,Accessories,South,Online,UPI,1,195.81,0.0,195.81,50.26,New
+200049,2022-08-19,Health,Supplements,South,Online,UPI,2,51.41,10.0,92.54,14.03,New
+200050,2022-10-24,Fashion,Kids,South,Online,Card,1,202.16,10.0,181.94,11.67,Returning
+200051,2022-06-23,Fashion,Women,East,Online,Card,1,46.72,10.0,42.05,11.23,Returning
+200052,2023-02-13,Sports,Outdoor,North,Online,Card,2,34.26,20.0,54.82,10.75,New
+200053,2022-03-21,Fashion,Men,South,Online,COD,3,49.45,0.0,148.35,18.13,Returning
+200054,2022-11-03,Sports,Outdoor,West,Retail,Card,1,81.39,25.0,61.04,1.23,Returning
+200055,2022-11-25,Electronics,Laptops,North,Retail,UPI,3,77.22,0.0,231.66,23.95,New
+200056,2022-09-29,Home & Kitchen,Kitchenware,West,Retail,Card,2,91.67,10.0,165.01,35.8,Returning
+200057,2023-06-22,Home & Kitchen,Decor,South,Mobile App,Card,3,26.5,20.0,63.6,5.11,VIP
+200058,2022-04-14,Fashion,Men,North,Marketplace,Card,3,65.41,25.0,147.17,1.47,Returning
+200059,2022-01-22,Fashion,Kids,West,Retail,COD,1,44.71,20.0,35.77,4.43,Returning
+200060,2022-07-09,Fashion,Men,East,Online,Netbanking,1,25.58,15.0,21.74,6.29,New
+200061,2022-01-19,Fashion,Men,West,Online,Netbanking,2,62.97,0.0,125.94,36.48,Returning
+200062,2023-10-12,Home & Kitchen,Kitchenware,East,Retail,COD,1,115.57,5.0,109.79,17.42,Returning
+200063,2023-02-21,Electronics,Audio,North,Mobile App,COD,1,64.6,20.0,51.68,13.08,New
+200064,2022-08-15,Home & Kitchen,Decor,South,Online,COD,1,77.08,25.0,57.81,0.58,New
+200065,2023-07-28,Electronics,Audio,West,Mobile App,COD,1,87.44,0.0,87.44,19.07,Returning
+200066,2023-07-03,Health,Personal Care,West,Mobile App,UPI,1,42.56,20.0,34.05,0.34,New
+200067,2023-09-03,Fashion,Kids,South,Mobile App,Card,3,97.05,15.0,247.48,45.14,Returning
+200068,2022-08-30,Sports,Fitness,West,Online,COD,1,80.13,0.0,80.13,18.97,Returning
+200069,2022-01-16,Electronics,Laptops,East,Mobile App,Card,1,301.84,15.0,256.56,27.52,Returning
+200070,2022-12-09,Fashion,Kids,South,Online,Netbanking,1,86.25,0.0,86.25,13.86,New
+200071,2022-01-29,Electronics,Phones,East,Online,UPI,2,168.14,0.0,336.28,48.63,Returning
+200072,2023-08-23,Sports,Fitness,North,Online,UPI,1,154.45,25.0,115.84,5.66,Returning
+200073,2023-01-07,Home & Kitchen,Decor,South,Retail,COD,2,79.34,10.0,142.81,1.43,Returning
+200074,2022-07-23,Sports,Outdoor,North,Online,Card,2,32.41,0.0,64.82,18.05,New
+200075,2023-03-28,Sports,Fitness,East,Mobile App,Card,1,39.37,0.0,39.37,10.27,New
+200076,2022-03-01,Electronics,Phones,North,Retail,Card,1,154.3,25.0,115.73,3.19,Returning
+200077,2022-12-17,Home & Kitchen,Decor,North,Retail,COD,3,63.29,5.0,180.38,39.27,New
+200078,2022-07-16,Fashion,Kids,East,Mobile App,COD,1,27.79,0.0,27.79,3.66,Returning
+200079,2022-04-21,Fashion,Women,South,Online,Card,1,53.53,20.0,42.82,6.31,Returning
+200080,2022-03-06,Electronics,Laptops,South,Online,COD,2,238.72,10.0,429.7,32.77,New
+200081,2023-03-21,Fashion,Men,South,Retail,Card,1,86.06,20.0,68.85,5.61,Returning
+200082,2023-11-08,Electronics,Audio,East,Marketplace,Card,1,99.82,5.0,94.83,8.22,VIP
+200083,2023-01-13,Fashion,Kids,East,Retail,Netbanking,1,60.78,5.0,57.74,11.48,New
+200084,2023-02-01,Electronics,Accessories,North,Marketplace,UPI,1,132.35,0.0,132.35,26.19,VIP
+200085,2022-03-27,Electronics,Audio,North,Retail,UPI,1,82.37,25.0,61.78,0.62,New
+200086,2023-05-14,Health,Personal Care,South,Mobile App,Card,1,46.22,25.0,34.66,1.43,Returning
+200087,2023-12-06,Sports,Fitness,North,Retail,Card,3,28.87,10.0,77.95,12.57,VIP
+200088,2023-04-07,Sports,Outdoor,North,Online,COD,1,237.85,20.0,190.28,4.17,New
+200089,2023-12-07,Electronics,Accessories,North,Online,COD,1,300.04,10.0,270.04,40.92,Returning
+200090,2022-02-25,Home & Kitchen,Decor,North,Online,COD,1,309.72,0.0,309.72,96.37,New
+200091,2023-12-05,Electronics,Phones,South,Mobile App,UPI,1,348.66,0.0,348.66,76.55,VIP
+200092,2022-02-09,Fashion,Men,West,Marketplace,UPI,1,194.84,25.0,146.13,13.14,Returning
+200093,2023-12-31,Fashion,Kids,East,Marketplace,UPI,3,40.81,0.0,122.43,39.39,New
+200094,2022-05-07,Health,Supplements,South,Mobile App,Card,1,157.68,20.0,126.14,18.03,Returning
+200095,2023-06-09,Home & Kitchen,Decor,South,Online,COD,1,25.61,15.0,21.77,2.57,New
+200096,2023-02-28,Health,Supplements,East,Online,Card,1,104.54,0.0,104.54,34.57,New
+200097,2022-07-22,Fashion,Men,East,Online,Card,1,366.68,20.0,293.34,45.16,New
+200098,2023-12-02,Health,Supplements,South,Online,Card,3,52.38,20.0,125.71,12.32,Returning
+200099,2022-12-22,Electronics,Laptops,North,Online,Card,1,75.92,0.0,75.92,24.41,New
+200100,2022-11-28,Home & Kitchen,Kitchenware,North,Retail,Card,1,505.86,15.0,429.98,4.3,New
+200101,2022-12-17,Fashion,Kids,North,Online,Card,3,27.17,20.0,65.21,7.51,New
+200102,2022-02-05,Sports,Outdoor,South,Mobile App,UPI,1,58.79,25.0,44.09,8.44,New
+200103,2022-05-12,Fashion,Men,West,Mobile App,Netbanking,3,172.06,10.0,464.56,70.35,Returning
+200104,2022-01-14,Fashion,Women,North,Marketplace,Card,1,208.55,20.0,166.84,13.61,Returning
+200105,2023-08-24,Electronics,Audio,North,Online,COD,2,223.42,15.0,379.81,57.89,Returning
+200106,2023-10-10,Fashion,Women,North,Retail,Netbanking,2,81.34,20.0,130.14,1.3,New
+200107,2023-06-03,Home & Kitchen,Kitchenware,North,Online,Card,1,121.46,20.0,97.17,11.09,VIP
+200108,2023-10-01,Electronics,Phones,West,Online,Card,1,114.97,0.0,114.97,34.33,Returning
+200109,2023-11-25,Fashion,Kids,South,Retail,Card,1,111.84,0.0,111.84,40.27,Returning
+200110,2022-12-19,Fashion,Kids,North,Mobile App,Netbanking,1,135.88,25.0,101.91,1.02,Returning
+200111,2023-08-15,Electronics,Laptops,East,Marketplace,Netbanking,1,179.07,0.0,179.07,44.06,Returning
+200112,2022-05-23,Fashion,Men,West,Online,COD,2,253.84,10.0,456.91,73.15,Returning
+200113,2023-06-05,Electronics,Laptops,North,Online,COD,1,151.25,0.0,151.25,21.4,Returning
+200114,2022-02-10,Fashion,Women,South,Online,Netbanking,1,113.35,5.0,107.68,2.46,Returning
+200115,2023-08-11,Home & Kitchen,Kitchenware,East,Marketplace,Card,1,36.92,0.0,36.92,8.58,New
+200116,2022-11-26,Fashion,Men,West,Online,COD,2,90.73,10.0,163.31,19.72,Returning
+200117,2023-10-14,Health,Supplements,West,Online,Card,1,77.0,5.0,73.15,17.01,New
+200118,2022-10-12,Fashion,Women,South,Mobile App,COD,1,35.53,15.0,30.2,0.3,Returning
+200119,2023-12-19,Home & Kitchen,Furniture,West,Online,UPI,1,60.16,5.0,57.15,11.16,Returning
+200120,2023-04-12,Sports,Outdoor,South,Marketplace,Netbanking,1,47.45,20.0,37.96,4.41,New
+200121,2022-03-13,Fashion,Women,South,Retail,Card,1,76.35,20.0,61.08,12.72,New
+200122,2022-01-30,Fashion,Women,North,Retail,Card,2,132.28,5.0,251.33,76.07,New
+200123,2023-11-13,Electronics,Audio,South,Mobile App,Card,3,339.68,0.0,1019.04,410.44,Returning
+200124,2023-02-06,Electronics,Phones,South,Mobile App,Card,1,71.51,0.0,71.51,10.17,New
+200125,2022-06-29,Health,Personal Care,North,Retail,Netbanking,2,108.11,10.0,194.6,18.87,Returning
+200126,2022-08-19,Sports,Fitness,North,Marketplace,Card,1,50.67,10.0,45.6,8.74,New
+200127,2022-04-11,Electronics,Phones,West,Retail,UPI,1,96.98,15.0,82.43,18.07,Returning
+200128,2023-12-12,Fashion,Men,East,Online,Card,1,27.88,20.0,22.3,4.26,New
+200129,2023-10-11,Fashion,Men,East,Marketplace,Netbanking,1,51.82,0.0,51.82,12.73,Returning
+200130,2023-01-07,Sports,Fitness,South,Retail,Card,1,322.93,15.0,274.49,24.48,Returning
+200131,2022-09-03,Electronics,Phones,North,Marketplace,Netbanking,1,220.5,10.0,198.45,38.39,VIP
+200132,2023-11-17,Electronics,Laptops,South,Online,Card,1,121.54,15.0,103.31,14.92,New
+200133,2023-12-16,Home & Kitchen,Decor,South,Online,UPI,3,143.39,25.0,322.63,30.08,Returning
+200134,2023-05-18,Electronics,Laptops,East,Online,UPI,1,499.23,0.0,499.23,192.97,Returning
+200135,2023-05-23,Sports,Outdoor,East,Retail,COD,1,86.45,0.0,86.45,20.85,New
+200136,2023-09-28,Fashion,Men,South,Online,Netbanking,3,165.02,15.0,420.8,79.07,New
+200137,2022-12-29,Health,Personal Care,West,Online,Card,2,73.15,15.0,124.36,28.36,Returning
+200138,2022-12-20,Sports,Fitness,West,Mobile App,Card,1,59.2,5.0,56.24,0.86,Returning
+200139,2023-06-10,Sports,Outdoor,North,Online,COD,3,136.84,5.0,389.99,45.99,Returning
+200140,2022-09-11,Electronics,Phones,North,Online,Card,1,117.4,5.0,111.53,22.92,New
+200141,2023-02-28,Fashion,Women,East,Marketplace,UPI,1,68.64,20.0,54.91,6.99,Returning
+200142,2023-09-05,Fashion,Men,South,Marketplace,Card,1,99.56,20.0,79.65,8.63,Returning
+200143,2023-07-06,Health,Supplements,North,Retail,Card,1,87.77,25.0,65.83,10.53,New
+200144,2022-10-21,Sports,Fitness,West,Online,Netbanking,1,149.79,5.0,142.3,8.98,New
+200145,2023-10-27,Electronics,Audio,South,Retail,Card,1,89.89,5.0,85.4,18.28,New
+200146,2023-04-22,Fashion,Women,West,Online,Netbanking,3,106.75,25.0,240.19,30.67,Returning
+200147,2023-08-08,Fashion,Men,West,Online,Card,1,58.04,20.0,46.43,11.46,Returning
+200148,2023-04-09,Home & Kitchen,Decor,West,Marketplace,Card,2,69.76,0.0,139.52,29.85,New
+200149,2022-01-14,Health,Personal Care,North,Mobile App,UPI,2,141.04,15.0,239.77,46.84,New
+200150,2022-05-11,Home & Kitchen,Kitchenware,South,Marketplace,UPI,1,27.94,0.0,27.94,5.54,New
+200151,2023-02-14,Fashion,Kids,West,Online,Card,2,98.78,5.0,187.68,20.84,Returning
+200152,2023-10-25,Health,Supplements,South,Online,UPI,1,83.79,0.0,83.79,15.9,New
+200153,2023-12-10,Electronics,Accessories,North,Online,UPI,1,155.81,20.0,124.65,1.25,Returning
+200154,2023-10-16,Electronics,Laptops,East,Marketplace,COD,1,167.87,10.0,151.08,25.68,Returning
+200155,2022-12-22,Electronics,Phones,West,Online,UPI,1,288.22,15.0,244.99,15.4,New
+200156,2022-08-27,Fashion,Men,East,Retail,UPI,3,40.93,0.0,122.79,23.34,New
+200157,2022-11-07,Fashion,Women,South,Retail,Card,1,30.93,0.0,30.93,5.8,Returning
+200158,2023-09-28,Health,Personal Care,East,Online,COD,3,137.38,15.0,350.32,3.5,Returning
+200159,2023-08-12,Fashion,Men,North,Online,COD,1,83.93,5.0,79.73,13.42,VIP
+200160,2023-12-09,Fashion,Men,West,Mobile App,Card,2,86.01,5.0,163.42,29.38,New
+200161,2023-10-19,Electronics,Laptops,West,Online,Card,1,60.09,0.0,60.09,18.13,New
+200162,2023-03-22,Health,Personal Care,South,Online,UPI,1,117.88,20.0,94.3,9.43,Returning
+200163,2023-07-19,Electronics,Accessories,West,Online,UPI,1,66.62,10.0,59.96,14.7,New
+200164,2023-03-22,Fashion,Kids,West,Retail,Netbanking,3,240.77,0.0,722.31,140.49,Returning
+200165,2023-12-10,Fashion,Kids,West,Mobile App,Card,3,116.1,15.0,296.05,48.44,Returning
+200166,2023-09-13,Electronics,Phones,West,Retail,COD,1,274.29,10.0,246.86,70.91,New
+200167,2023-11-10,Sports,Outdoor,West,Online,Netbanking,2,25.38,15.0,43.15,6.08,New
+200168,2023-02-25,Sports,Fitness,East,Marketplace,UPI,1,91.79,25.0,68.84,1.08,New
+200169,2022-08-22,Health,Supplements,South,Online,UPI,3,64.56,0.0,193.68,39.69,New
+200170,2023-04-30,Fashion,Kids,South,Online,UPI,1,97.21,15.0,82.63,17.8,New
+200171,2022-08-24,Fashion,Kids,North,Online,Netbanking,2,182.53,0.0,365.06,99.0,Returning
+200172,2023-11-17,Electronics,Audio,South,Retail,Netbanking,2,279.28,0.0,558.56,128.6,Returning
+200173,2022-07-03,Sports,Fitness,East,Online,UPI,1,101.9,0.0,101.9,40.12,Returning
+200174,2023-11-27,Home & Kitchen,Furniture,East,Online,Netbanking,1,120.27,5.0,114.26,26.86,Returning
+200175,2023-11-14,Electronics,Phones,South,Online,UPI,3,179.8,0.0,539.4,142.49,New
+200176,2023-06-06,Home & Kitchen,Furniture,East,Mobile App,UPI,1,35.64,20.0,28.51,0.29,Returning
+200177,2023-04-18,Sports,Fitness,West,Mobile App,UPI,3,47.94,20.0,115.06,3.69,New
+200178,2023-03-01,Health,Supplements,North,Retail,Card,2,325.83,5.0,619.08,146.02,New
+200179,2022-06-30,Home & Kitchen,Furniture,East,Online,UPI,3,171.96,15.0,438.5,10.56,VIP
+200180,2022-03-19,Fashion,Women,South,Online,COD,2,26.68,0.0,53.36,14.54,New
+200181,2023-09-26,Sports,Outdoor,East,Retail,Card,1,263.37,20.0,210.7,17.83,New
+200182,2023-02-12,Home & Kitchen,Decor,South,Retail,Card,1,457.36,10.0,411.62,62.79,New
+200183,2022-07-09,Fashion,Kids,North,Online,UPI,3,208.59,15.0,531.9,5.32,Returning
+200184,2023-02-10,Sports,Fitness,East,Online,COD,2,286.36,20.0,458.18,70.99,Returning
+200185,2023-09-28,Electronics,Audio,West,Marketplace,Card,1,123.71,5.0,117.52,14.26,New
+200186,2022-09-07,Sports,Outdoor,South,Online,COD,1,281.8,25.0,211.35,2.11,New
+200187,2022-11-12,Fashion,Women,North,Retail,Card,1,378.88,5.0,359.94,6.61,Returning
+200188,2023-11-07,Home & Kitchen,Decor,North,Retail,Card,1,182.74,0.0,182.74,35.67,Returning
+200189,2022-04-22,Fashion,Kids,North,Online,Card,3,286.94,10.0,774.74,157.62,VIP
+200190,2022-08-01,Sports,Fitness,North,Online,UPI,2,92.57,25.0,138.85,18.12,New
+200191,2022-05-17,Sports,Outdoor,South,Online,Card,3,38.0,20.0,91.2,5.5,Returning
+200192,2023-09-09,Fashion,Men,South,Online,Netbanking,2,250.95,5.0,476.8,52.77,Returning
+200193,2023-11-06,Fashion,Kids,North,Mobile App,Card,1,56.92,15.0,48.38,3.12,Returning
+200194,2022-08-27,Electronics,Phones,West,Online,COD,3,129.88,10.0,350.68,3.51,Returning
+200195,2023-05-24,Fashion,Women,South,Online,UPI,1,109.9,0.0,109.9,31.41,Returning
+200196,2022-12-21,Home & Kitchen,Kitchenware,East,Online,Card,2,34.2,15.0,58.14,4.44,Returning
+200197,2023-01-04,Fashion,Kids,North,Marketplace,Card,1,501.92,20.0,401.54,35.27,New
+200198,2022-03-20,Electronics,Accessories,West,Retail,UPI,1,522.06,0.0,522.06,44.28,New
+200199,2022-10-09,Sports,Outdoor,South,Mobile App,Netbanking,1,89.04,5.0,84.59,15.78,Returning
+200200,2022-08-05,Home & Kitchen,Decor,North,Online,Card,2,28.7,0.0,57.4,9.25,Returning
+200201,2022-04-10,Home & Kitchen,Furniture,West,Online,UPI,2,51.21,15.0,87.06,9.82,Returning
+200202,2023-02-16,Sports,Fitness,East,Online,Card,1,48.7,15.0,41.4,7.74,New
+200203,2023-11-30,Home & Kitchen,Furniture,South,Online,UPI,1,34.24,15.0,29.1,7.1,New
+200204,2022-06-11,Health,Supplements,South,Mobile App,COD,1,193.59,0.0,193.59,52.0,New
+200205,2022-09-24,Health,Personal Care,East,Mobile App,Netbanking,1,40.36,10.0,36.32,1.74,Returning
+200206,2022-08-01,Fashion,Kids,East,Online,UPI,2,154.85,25.0,232.27,24.87,Returning
+200207,2022-03-04,Electronics,Laptops,West,Retail,Netbanking,3,125.99,20.0,302.38,3.02,New
+200208,2023-03-04,Electronics,Laptops,West,Online,COD,2,73.84,5.0,140.3,16.23,VIP
+200209,2022-06-24,Home & Kitchen,Decor,West,Mobile App,Card,1,40.24,10.0,36.22,5.45,Returning
+200210,2022-01-13,Home & Kitchen,Kitchenware,South,Mobile App,Card,1,124.83,0.0,124.83,26.54,VIP
+200211,2023-11-13,Home & Kitchen,Decor,East,Retail,Netbanking,3,198.93,0.0,596.79,191.16,Returning
+200212,2023-03-02,Sports,Outdoor,North,Retail,Card,2,97.25,5.0,184.77,31.08,New
+200213,2022-08-01,Fashion,Men,North,Mobile App,Card,1,154.34,5.0,146.62,15.87,New
+200214,2022-11-18,Health,Personal Care,South,Marketplace,Card,3,234.07,0.0,702.21,111.64,Returning
+200215,2022-06-24,Fashion,Kids,South,Online,UPI,3,304.33,0.0,912.99,133.16,Returning
+200216,2022-08-12,Electronics,Phones,East,Marketplace,Card,1,138.01,5.0,131.11,17.35,VIP
+200217,2022-07-08,Fashion,Women,East,Online,UPI,3,100.35,0.0,301.05,53.97,Returning
+200218,2023-09-13,Electronics,Phones,North,Online,Card,1,91.51,5.0,86.93,5.05,Returning
+200219,2023-02-25,Fashion,Men,West,Retail,Card,1,287.0,0.0,287.0,99.32,Returning
+200220,2022-04-01,Sports,Fitness,West,Online,Card,3,155.64,5.0,443.57,25.98,Returning
+200221,2023-01-30,Sports,Outdoor,East,Retail,Card,1,275.93,0.0,275.93,107.43,New
+200222,2022-11-14,Sports,Outdoor,North,Online,Card,1,45.71,25.0,34.28,3.43,Returning
+200223,2023-03-23,Fashion,Men,East,Online,Card,1,81.05,0.0,81.05,16.4,New
+200224,2022-06-17,Home & Kitchen,Decor,East,Online,Netbanking,1,227.75,15.0,193.59,35.07,New
+200225,2023-08-16,Fashion,Men,West,Online,UPI,3,60.88,25.0,136.98,10.4,New
+200226,2023-09-19,Fashion,Women,West,Online,UPI,1,166.63,15.0,141.64,4.18,New
+200227,2022-09-18,Home & Kitchen,Decor,South,Mobile App,COD,1,66.32,0.0,66.32,4.99,Returning
+200228,2022-07-19,Sports,Outdoor,North,Online,Card,1,72.37,25.0,54.28,7.11,New
+200229,2022-01-13,Fashion,Men,West,Marketplace,Card,1,144.9,10.0,130.41,23.07,New
+200230,2022-06-26,Health,Personal Care,North,Online,Card,3,356.63,15.0,909.41,30.13,New
+200231,2023-03-14,Sports,Outdoor,South,Online,Netbanking,1,55.31,25.0,41.48,9.22,Returning
+200232,2022-07-06,Health,Supplements,West,Online,UPI,1,254.53,10.0,229.08,49.33,New
+200233,2022-03-04,Fashion,Men,North,Marketplace,Card,1,197.58,10.0,177.82,34.69,Returning
+200234,2022-11-17,Health,Supplements,South,Online,Card,2,165.87,20.0,265.39,41.02,Returning
+200235,2022-02-14,Health,Personal Care,North,Retail,Netbanking,3,45.5,0.0,136.5,37.04,New
+200236,2023-06-07,Fashion,Kids,South,Online,Card,3,172.97,20.0,415.13,44.43,VIP
+200237,2022-10-25,Electronics,Audio,North,Marketplace,Netbanking,3,390.92,0.0,1172.76,415.88,New
+200238,2023-02-21,Fashion,Kids,North,Mobile App,Card,3,482.02,20.0,1156.85,163.5,New
+200239,2023-02-28,Home & Kitchen,Furniture,North,Marketplace,Card,2,71.18,20.0,113.89,15.83,Returning
+200240,2022-06-28,Sports,Fitness,East,Online,Card,3,221.3,25.0,497.93,57.28,New
+200241,2023-09-30,Sports,Fitness,East,Online,COD,1,91.19,0.0,91.19,24.31,New
+200242,2022-09-17,Home & Kitchen,Kitchenware,South,Mobile App,Card,1,129.08,5.0,122.63,22.97,New
+200243,2023-09-10,Home & Kitchen,Furniture,South,Marketplace,Card,1,50.48,5.0,47.96,9.48,Returning
+200244,2022-09-08,Electronics,Audio,North,Retail,Netbanking,1,83.72,25.0,62.79,6.1,New
+200245,2022-02-06,Fashion,Kids,North,Online,Card,3,58.77,10.0,158.68,45.86,New
+200246,2022-10-29,Electronics,Phones,North,Marketplace,Netbanking,1,113.75,15.0,96.69,7.15,New
+200247,2023-08-15,Sports,Fitness,West,Online,Card,2,77.32,0.0,154.64,26.52,Returning
+200248,2022-09-29,Fashion,Women,South,Online,UPI,1,211.18,10.0,190.06,41.91,Returning
+200249,2022-09-01,Home & Kitchen,Kitchenware,West,Marketplace,COD,1,256.88,25.0,192.66,36.76,New
+200250,2022-06-21,Fashion,Men,East,Online,UPI,3,127.71,5.0,363.97,99.51,Returning
+200251,2022-10-04,Electronics,Phones,North,Mobile App,Card,1,169.94,0.0,169.94,61.22,Returning
+200252,2023-10-25,Home & Kitchen,Furniture,East,Retail,Card,1,52.09,10.0,46.88,5.33,New
+200253,2023-02-21,Sports,Fitness,East,Online,UPI,2,119.27,0.0,238.54,45.64,New
+200254,2022-05-14,Home & Kitchen,Kitchenware,West,Retail,Card,1,486.91,10.0,438.22,17.97,Returning
+200255,2022-06-23,Home & Kitchen,Furniture,South,Mobile App,Card,1,81.82,0.0,81.82,25.13,Returning
+200256,2022-11-30,Fashion,Men,North,Online,UPI,2,423.5,0.0,847.0,165.62,New
+200257,2022-08-13,Sports,Outdoor,East,Marketplace,Card,1,25.98,5.0,24.68,5.78,Returning
+200258,2023-08-04,Electronics,Laptops,East,Online,Card,3,107.46,10.0,290.14,28.0,Returning
+200259,2022-08-31,Electronics,Accessories,South,Retail,Card,1,186.64,0.0,186.64,45.88,New
+200260,2023-04-16,Fashion,Men,West,Mobile App,Netbanking,1,45.13,0.0,45.13,15.39,Returning
+200261,2022-03-12,Electronics,Audio,North,Marketplace,UPI,1,154.41,25.0,115.81,22.5,New
+200262,2023-02-28,Fashion,Women,West,Online,Card,2,101.41,0.0,202.82,21.82,VIP
+200263,2022-10-15,Electronics,Laptops,North,Online,Netbanking,3,79.77,15.0,203.41,50.15,New
+200264,2022-03-19,Fashion,Kids,North,Mobile App,Card,1,50.81,10.0,45.73,4.82,VIP
+200265,2023-03-26,Electronics,Laptops,East,Online,Card,1,173.43,10.0,156.09,22.6,New
+200266,2022-08-16,Fashion,Women,South,Mobile App,UPI,3,440.04,10.0,1188.11,310.69,Returning
+200267,2022-12-26,Health,Personal Care,West,Online,Card,1,72.43,0.0,72.43,14.35,Returning
+200268,2023-08-24,Electronics,Laptops,East,Online,UPI,1,90.41,5.0,85.89,21.64,New
+200269,2023-10-07,Fashion,Kids,West,Marketplace,Netbanking,2,275.58,5.0,523.6,54.74,Returning
+200270,2023-01-30,Electronics,Laptops,South,Online,Card,1,113.55,20.0,90.84,14.05,New
+200271,2023-04-24,Health,Personal Care,South,Retail,UPI,2,183.53,0.0,367.06,93.58,New
+200272,2022-07-19,Fashion,Men,South,Online,COD,1,161.21,25.0,120.91,22.21,Returning
+200273,2022-05-19,Home & Kitchen,Decor,East,Retail,Card,1,35.85,5.0,34.06,5.19,Returning
+200274,2023-05-24,Fashion,Men,South,Mobile App,COD,1,136.7,15.0,116.19,18.97,Returning
+200275,2022-09-26,Fashion,Women,West,Online,Card,2,128.45,0.0,256.9,49.46,Returning
+200276,2022-02-12,Home & Kitchen,Kitchenware,South,Retail,UPI,3,267.2,0.0,801.6,93.98,Returning
+200277,2023-11-20,Fashion,Kids,East,Online,Netbanking,1,32.41,5.0,30.79,7.77,Returning
+200278,2023-10-13,Sports,Fitness,South,Mobile App,Card,3,52.38,20.0,125.71,22.62,Returning
+200279,2022-10-23,Health,Personal Care,North,Online,Card,2,74.15,25.0,111.23,13.92,Returning
+200280,2023-06-17,Home & Kitchen,Kitchenware,East,Online,Card,2,432.39,10.0,778.3,177.71,VIP
+200281,2022-05-05,Fashion,Men,South,Mobile App,UPI,3,50.05,5.0,142.64,34.47,Returning
+200282,2023-07-19,Health,Supplements,North,Marketplace,UPI,1,72.38,10.0,65.14,14.04,New
+200283,2022-07-23,Electronics,Laptops,East,Retail,COD,2,278.1,25.0,417.15,4.17,Returning
+200284,2023-11-14,Fashion,Women,West,Online,UPI,1,28.34,0.0,28.34,4.03,Returning
+200285,2022-01-27,Electronics,Laptops,South,Online,COD,3,124.64,0.0,373.92,65.67,Returning
+200286,2023-06-07,Fashion,Kids,West,Mobile App,Card,2,64.38,15.0,109.45,19.56,New
+200287,2023-04-12,Sports,Outdoor,North,Online,Netbanking,1,304.21,0.0,304.21,63.34,VIP
+200288,2023-04-05,Sports,Fitness,South,Mobile App,Card,2,279.93,5.0,531.87,141.29,New
+200289,2023-02-27,Health,Personal Care,East,Retail,Card,1,30.86,20.0,24.69,2.08,Returning
+200290,2023-02-23,Electronics,Accessories,North,Online,Card,1,206.08,15.0,175.17,29.87,New
+200291,2023-11-23,Home & Kitchen,Kitchenware,West,Online,Card,2,47.35,0.0,94.7,21.59,New
+200292,2023-05-02,Home & Kitchen,Furniture,North,Marketplace,Netbanking,3,250.76,25.0,564.21,44.84,New
+200293,2023-04-26,Electronics,Audio,South,Online,UPI,1,141.62,25.0,106.22,8.0,Returning
+200294,2023-08-25,Health,Supplements,North,Online,COD,1,58.93,0.0,58.93,10.31,New
+200295,2022-07-18,Fashion,Women,South,Retail,Card,1,191.37,15.0,162.66,17.06,VIP
+200296,2023-04-13,Electronics,Audio,East,Mobile App,Card,1,131.82,0.0,131.82,15.41,New
+200297,2023-09-28,Fashion,Women,West,Retail,COD,1,162.38,10.0,146.14,35.83,New
+200298,2023-11-16,Fashion,Kids,East,Mobile App,Netbanking,1,43.46,25.0,32.59,2.47,New
+200299,2022-09-04,Fashion,Men,South,Mobile App,Card,1,38.43,0.0,38.43,9.25,New
+200300,2022-06-08,Home & Kitchen,Furniture,North,Online,Netbanking,2,53.02,15.0,90.13,16.62,VIP
+200301,2023-12-20,Health,Supplements,South,Online,UPI,1,111.67,0.0,111.67,40.58,Returning
+200302,2023-03-09,Health,Supplements,South,Online,Netbanking,1,238.2,0.0,238.2,45.65,Returning
+200303,2023-12-21,Health,Supplements,North,Retail,Netbanking,2,124.41,25.0,186.62,18.24,VIP
+200304,2023-12-19,Fashion,Women,East,Online,Card,1,46.69,0.0,46.69,14.3,Returning
+200305,2022-07-21,Sports,Outdoor,North,Online,Card,1,39.49,15.0,33.57,4.88,Returning
+200306,2022-11-25,Home & Kitchen,Kitchenware,West,Online,Card,1,124.71,15.0,106.0,1.06,Returning
+200307,2023-07-16,Sports,Outdoor,West,Online,Card,1,27.2,15.0,23.12,2.44,Returning
+200308,2022-01-29,Sports,Fitness,South,Online,UPI,1,69.23,0.0,69.23,19.89,Returning
+200309,2022-02-11,Electronics,Audio,North,Retail,UPI,1,112.96,25.0,84.72,23.77,VIP
+200310,2023-12-22,Sports,Outdoor,North,Retail,Card,1,71.34,0.0,71.34,12.73,New
+200311,2023-06-03,Home & Kitchen,Decor,North,Marketplace,UPI,1,497.27,20.0,397.82,30.75,New
+200312,2022-10-03,Health,Supplements,South,Marketplace,Card,1,50.55,10.0,45.49,8.33,New
+200313,2022-01-28,Electronics,Phones,South,Marketplace,COD,1,158.77,5.0,150.83,14.7,Returning
+200314,2023-04-20,Home & Kitchen,Kitchenware,East,Online,Netbanking,1,237.96,5.0,226.06,82.76,New
+200315,2023-11-25,Health,Supplements,North,Mobile App,Netbanking,1,117.36,0.0,117.36,13.11,New
+200316,2023-01-21,Health,Supplements,North,Marketplace,Netbanking,1,294.05,5.0,279.35,94.84,Returning
+200317,2023-12-04,Home & Kitchen,Decor,North,Retail,Netbanking,1,64.18,0.0,64.18,7.6,Returning
+200318,2022-07-14,Fashion,Women,West,Online,Card,2,115.73,0.0,231.46,35.94,New
+200319,2023-10-11,Sports,Fitness,North,Mobile App,Netbanking,3,111.16,5.0,316.81,63.68,New
+200320,2023-11-20,Fashion,Kids,South,Retail,UPI,1,135.28,0.0,135.28,22.56,New
+200321,2022-10-07,Electronics,Accessories,East,Online,Card,1,82.75,10.0,74.48,17.44,Returning
+200322,2023-05-20,Health,Personal Care,North,Mobile App,Netbanking,2,187.59,15.0,318.9,35.83,New
+200323,2022-03-02,Fashion,Kids,North,Online,Card,3,38.24,0.0,114.72,18.51,VIP
+200324,2023-04-02,Home & Kitchen,Decor,West,Retail,Card,1,99.94,25.0,74.95,8.3,Returning
+200325,2022-10-25,Fashion,Women,North,Online,Card,1,282.11,10.0,253.9,44.99,Returning
+200326,2022-05-29,Fashion,Women,South,Online,Card,1,56.56,0.0,56.56,12.7,New
+200327,2022-11-24,Sports,Fitness,South,Online,Netbanking,1,89.85,0.0,89.85,28.29,Returning
+200328,2022-02-17,Health,Supplements,West,Marketplace,Card,1,29.93,5.0,28.43,5.25,New
+200329,2023-06-26,Fashion,Kids,North,Mobile App,Card,1,126.63,5.0,120.3,12.51,Returning
+200330,2022-01-14,Fashion,Women,West,Retail,Card,2,52.24,0.0,104.48,23.39,Returning
+200331,2023-12-27,Fashion,Women,South,Mobile App,Card,1,112.24,0.0,112.24,16.01,VIP
+200332,2022-03-01,Sports,Outdoor,North,Online,Card,1,30.56,0.0,30.56,2.42,New
+200333,2023-01-13,Electronics,Accessories,West,Online,Card,1,181.19,5.0,172.13,42.99,Returning
+200334,2023-11-19,Health,Personal Care,West,Marketplace,UPI,1,71.69,20.0,57.35,11.91,Returning
+200335,2023-08-13,Fashion,Women,West,Online,UPI,1,106.12,0.0,106.12,15.95,Returning
+200336,2023-08-24,Electronics,Accessories,East,Mobile App,Card,3,84.85,25.0,190.91,12.87,New
+200337,2023-09-21,Health,Supplements,West,Mobile App,UPI,3,58.76,20.0,141.02,1.41,New
+200338,2023-07-04,Sports,Fitness,South,Marketplace,Card,1,215.59,0.0,215.59,58.65,Returning
+200339,2022-09-23,Health,Supplements,North,Online,Card,1,32.3,0.0,32.3,4.79,Returning
+200340,2023-06-05,Home & Kitchen,Kitchenware,West,Online,Card,2,30.63,25.0,45.95,0.46,Returning
+200341,2022-05-04,Home & Kitchen,Kitchenware,East,Online,Card,3,160.27,15.0,408.69,65.41,VIP
+200342,2023-09-12,Home & Kitchen,Kitchenware,East,Online,Netbanking,3,52.36,10.0,141.37,25.51,Returning
+200343,2023-07-12,Electronics,Phones,North,Mobile App,COD,1,136.86,15.0,116.33,7.74,New
+200344,2022-06-18,Sports,Fitness,North,Online,UPI,3,118.41,0.0,355.23,88.24,New
+200345,2022-11-12,Home & Kitchen,Furniture,West,Mobile App,Card,2,290.33,0.0,580.66,211.07,Returning
+200346,2023-07-25,Home & Kitchen,Furniture,East,Online,UPI,1,46.93,0.0,46.93,7.63,Returning
+200347,2023-01-20,Sports,Outdoor,North,Marketplace,COD,2,90.74,10.0,163.33,35.1,Returning
+200348,2022-03-09,Electronics,Laptops,North,Online,UPI,1,126.28,10.0,113.65,2.78,VIP
+200349,2022-05-21,Electronics,Audio,East,Marketplace,Card,1,288.97,15.0,245.62,6.59,New
+200350,2022-08-17,Home & Kitchen,Kitchenware,East,Mobile App,Netbanking,1,31.05,25.0,23.29,0.49,VIP
+200351,2023-01-18,Health,Supplements,West,Marketplace,Card,1,171.11,15.0,145.44,11.48,New
+200352,2022-09-06,Sports,Fitness,North,Online,Netbanking,3,83.2,10.0,224.64,45.27,New
+200353,2022-01-25,Fashion,Women,West,Mobile App,UPI,1,153.26,15.0,130.27,7.9,Returning
+200354,2022-04-17,Health,Personal Care,West,Retail,COD,1,95.07,10.0,85.56,6.54,Returning
+200355,2022-06-27,Fashion,Men,South,Marketplace,Card,3,52.11,5.0,148.51,37.34,Returning
+200356,2023-07-14,Health,Personal Care,South,Retail,Netbanking,3,141.95,15.0,361.97,27.89,Returning
+200357,2023-08-25,Home & Kitchen,Furniture,South,Online,UPI,2,42.3,25.0,63.45,10.51,New
+200358,2023-07-06,Fashion,Kids,South,Online,Card,1,75.11,0.0,75.11,9.84,Returning
+200359,2023-06-23,Fashion,Men,East,Online,UPI,1,56.07,15.0,47.66,5.53,Returning
+200360,2022-01-28,Electronics,Phones,East,Retail,UPI,1,103.34,5.0,98.17,15.34,Returning
+200361,2022-12-14,Health,Personal Care,South,Online,Card,3,77.14,0.0,231.42,19.55,Returning
+200362,2023-03-08,Fashion,Women,South,Mobile App,Card,1,76.69,10.0,69.02,6.73,Returning
+200363,2022-11-05,Sports,Outdoor,East,Marketplace,Card,1,102.68,5.0,97.55,33.75,Returning
+200364,2022-06-29,Fashion,Women,North,Marketplace,Card,3,132.74,0.0,398.22,58.65,Returning
+200365,2022-01-17,Home & Kitchen,Kitchenware,East,Retail,Card,1,83.94,0.0,83.94,22.98,New
+200366,2022-05-08,Sports,Fitness,South,Retail,UPI,1,220.91,15.0,187.77,37.88,Returning
+200367,2023-05-13,Sports,Fitness,North,Mobile App,Card,3,57.15,0.0,171.45,9.42,Returning
+200368,2023-10-17,Fashion,Kids,East,Online,Card,2,36.12,10.0,65.02,10.48,Returning
+200369,2022-09-09,Health,Personal Care,North,Retail,COD,1,25.58,5.0,24.3,6.4,Returning
+200370,2022-12-01,Home & Kitchen,Furniture,West,Online,Card,1,56.02,10.0,50.42,5.45,VIP
+200371,2023-05-12,Home & Kitchen,Kitchenware,East,Mobile App,Card,2,153.2,10.0,275.76,24.78,VIP
+200372,2023-05-06,Health,Supplements,West,Retail,UPI,1,46.24,5.0,43.93,3.81,New
+200373,2023-02-26,Health,Supplements,West,Retail,UPI,1,367.76,0.0,367.76,90.95,Returning
+200374,2022-01-28,Health,Supplements,South,Mobile App,UPI,3,64.05,15.0,163.33,39.09,New
+200375,2022-04-06,Electronics,Phones,West,Online,Netbanking,1,155.69,0.0,155.69,18.25,New
+200376,2023-07-08,Fashion,Women,East,Mobile App,Netbanking,1,63.1,25.0,47.33,1.34,New
+200377,2022-08-31,Electronics,Audio,West,Retail,Card,1,244.84,10.0,220.36,42.94,New
+200378,2022-08-24,Fashion,Kids,North,Retail,Card,1,81.06,10.0,72.95,20.34,New
+200379,2023-01-10,Health,Personal Care,West,Retail,COD,1,45.98,0.0,45.98,8.36,Returning
+200380,2023-07-16,Fashion,Kids,East,Mobile App,UPI,3,94.43,15.0,240.8,44.58,Returning
+200381,2023-01-03,Home & Kitchen,Furniture,West,Marketplace,UPI,1,226.99,0.0,226.99,14.68,New
+200382,2023-10-16,Home & Kitchen,Decor,North,Online,Card,1,131.43,5.0,124.86,41.15,Returning
+200383,2023-02-03,Sports,Fitness,South,Retail,Card,1,71.16,15.0,60.49,9.05,New
+200384,2022-06-15,Home & Kitchen,Furniture,West,Online,Netbanking,3,122.17,0.0,366.51,17.24,Returning
+200385,2023-02-22,Electronics,Phones,East,Marketplace,Card,1,135.03,0.0,135.03,39.85,Returning
+200386,2023-07-27,Fashion,Women,South,Online,Card,3,38.42,15.0,97.97,11.82,New
+200387,2023-12-11,Fashion,Women,North,Online,Card,1,299.61,10.0,269.65,65.91,Returning
+200388,2023-07-11,Home & Kitchen,Kitchenware,North,Marketplace,UPI,1,65.83,10.0,59.25,8.72,Returning
+200389,2023-09-16,Health,Personal Care,West,Online,Card,1,487.72,0.0,487.72,108.18,New
+200390,2023-04-12,Fashion,Kids,East,Retail,Netbanking,2,218.45,15.0,371.36,52.22,New
+200391,2023-12-27,Home & Kitchen,Kitchenware,East,Mobile App,Netbanking,2,101.95,0.0,203.9,48.52,New
+200392,2022-07-29,Health,Personal Care,South,Online,Card,3,40.04,5.0,114.11,11.41,Returning
+200393,2022-12-15,Electronics,Laptops,West,Mobile App,UPI,2,135.29,20.0,216.46,28.24,Returning
+200394,2022-11-25,Electronics,Accessories,West,Online,COD,1,127.0,0.0,127.0,23.82,New
+200395,2023-06-23,Home & Kitchen,Decor,West,Online,Card,2,135.61,25.0,203.42,41.45,New
+200396,2022-03-13,Health,Supplements,East,Marketplace,COD,1,41.03,20.0,32.82,3.11,Returning
+200397,2023-05-20,Sports,Fitness,East,Retail,Card,1,93.4,0.0,93.4,22.64,VIP
+200398,2022-05-08,Home & Kitchen,Furniture,North,Marketplace,UPI,1,266.19,10.0,239.57,60.18,New
+200399,2022-02-12,Fashion,Kids,South,Online,Card,3,104.99,0.0,314.97,64.28,New
+200400,2023-11-05,Home & Kitchen,Furniture,East,Online,Card,1,90.42,10.0,81.38,7.63,Returning
+200401,2022-12-12,Electronics,Laptops,West,Online,UPI,1,61.22,0.0,61.22,5.35,New
+200402,2022-02-26,Fashion,Women,North,Marketplace,UPI,3,103.66,20.0,248.78,22.13,Returning
+200403,2022-06-25,Home & Kitchen,Kitchenware,South,Retail,Netbanking,1,72.83,10.0,65.55,14.96,New
+200404,2022-04-30,Electronics,Laptops,East,Online,Card,1,137.68,10.0,123.91,27.46,VIP
+200405,2023-02-01,Electronics,Laptops,East,Online,Netbanking,1,137.04,10.0,123.34,32.79,New
+200406,2023-09-28,Health,Supplements,West,Online,UPI,3,90.31,15.0,230.29,24.86,New
+200407,2023-11-07,Electronics,Accessories,East,Marketplace,UPI,3,71.78,0.0,215.34,66.36,New
+200408,2022-08-20,Sports,Fitness,South,Online,Netbanking,3,146.09,25.0,328.7,74.34,Returning
+200409,2023-10-17,Electronics,Laptops,East,Marketplace,Netbanking,1,127.63,20.0,102.1,8.58,New
+200410,2022-03-26,Fashion,Women,North,Online,UPI,1,294.91,0.0,294.91,52.05,Returning
+200411,2023-03-04,Fashion,Men,South,Marketplace,COD,3,97.33,10.0,262.79,33.14,Returning
+200412,2023-04-28,Sports,Fitness,East,Mobile App,Card,1,190.83,0.0,190.83,56.06,Returning
+200413,2023-08-16,Health,Personal Care,North,Mobile App,Card,3,246.96,10.0,666.79,90.62,New
+200414,2023-09-07,Electronics,Accessories,East,Online,Netbanking,1,257.34,0.0,257.34,46.11,Returning
+200415,2022-06-25,Fashion,Kids,North,Retail,Netbanking,1,194.19,5.0,184.48,1.84,New
+200416,2023-03-04,Home & Kitchen,Decor,West,Retail,Netbanking,2,26.6,25.0,39.9,0.4,New
+200417,2022-11-26,Electronics,Phones,East,Mobile App,UPI,3,243.22,5.0,693.18,123.0,Returning
+200418,2023-12-19,Home & Kitchen,Furniture,South,Online,Card,2,59.07,10.0,106.33,17.85,Returning
+200419,2023-11-08,Sports,Outdoor,South,Retail,UPI,3,163.23,20.0,391.75,3.92,New
+200420,2023-10-12,Home & Kitchen,Decor,West,Online,Card,1,205.36,0.0,205.36,58.34,Returning
+200421,2023-02-10,Home & Kitchen,Kitchenware,East,Retail,UPI,1,131.38,0.0,131.38,33.64,New
+200422,2022-03-11,Electronics,Phones,East,Marketplace,COD,1,108.25,10.0,97.42,21.23,New
+200423,2023-03-29,Home & Kitchen,Furniture,East,Retail,UPI,1,324.43,15.0,275.77,47.48,Returning
+200424,2023-06-23,Health,Supplements,West,Online,Card,1,61.05,0.0,61.05,10.99,New
+200425,2023-10-31,Sports,Outdoor,South,Marketplace,Card,1,30.81,0.0,30.81,5.33,New
+200426,2023-02-08,Electronics,Phones,North,Retail,COD,1,126.44,20.0,101.15,13.28,New
+200427,2022-07-06,Sports,Outdoor,North,Online,Card,3,143.72,20.0,344.93,78.23,New
+200428,2023-12-25,Fashion,Kids,North,Online,UPI,1,123.23,0.0,123.23,17.83,Returning
+200429,2023-03-16,Home & Kitchen,Furniture,North,Mobile App,COD,2,96.32,0.0,192.64,16.62,Returning
+200430,2023-04-22,Fashion,Men,North,Retail,Netbanking,1,42.05,15.0,35.74,6.86,New
+200431,2022-09-21,Home & Kitchen,Kitchenware,West,Online,COD,1,238.86,20.0,191.09,14.3,Returning
+200432,2022-09-24,Health,Personal Care,South,Online,UPI,1,48.83,20.0,39.06,8.05,Returning
+200433,2023-11-14,Fashion,Women,South,Marketplace,Card,3,35.02,15.0,89.3,2.2,Returning
+200434,2023-10-10,Home & Kitchen,Decor,East,Online,UPI,1,125.39,20.0,100.31,1.0,VIP
+200435,2023-05-15,Sports,Outdoor,South,Mobile App,Card,1,66.4,25.0,49.8,5.22,New
+200436,2022-12-25,Fashion,Men,East,Mobile App,Netbanking,1,284.26,10.0,255.83,52.01,Returning
+200437,2023-01-21,Electronics,Phones,East,Retail,Netbanking,1,189.73,0.0,189.73,41.24,Returning
+200438,2023-06-09,Fashion,Women,North,Online,UPI,1,122.89,0.0,122.89,14.44,New
+200439,2023-12-31,Fashion,Women,West,Online,Netbanking,1,39.2,0.0,39.2,17.26,Returning
+200440,2022-10-12,Health,Supplements,East,Online,UPI,3,106.54,15.0,271.68,86.29,Returning
+200441,2022-07-31,Electronics,Accessories,North,Mobile App,Card,2,285.24,25.0,427.86,17.36,New
+200442,2023-06-25,Sports,Outdoor,East,Online,UPI,3,31.68,10.0,85.54,32.23,VIP
+200443,2022-11-12,Home & Kitchen,Kitchenware,South,Retail,Card,1,139.37,5.0,132.4,32.57,Returning
+200444,2022-02-14,Home & Kitchen,Furniture,East,Online,Card,2,25.06,5.0,47.61,10.88,Returning
+200445,2022-10-06,Home & Kitchen,Kitchenware,West,Online,UPI,1,32.79,0.0,32.79,7.41,Returning
+200446,2022-07-21,Health,Personal Care,South,Online,Netbanking,1,75.62,0.0,75.62,14.28,New
+200447,2023-07-16,Fashion,Kids,West,Mobile App,Netbanking,3,39.05,10.0,105.43,5.86,Returning
+200448,2023-12-05,Fashion,Kids,South,Online,Card,1,43.39,25.0,32.54,0.33,New
+200449,2023-12-30,Health,Supplements,North,Mobile App,Card,1,90.31,5.0,85.79,28.82,New
+200450,2022-10-23,Fashion,Kids,North,Online,Card,1,92.33,5.0,87.71,9.24,Returning
+200451,2022-11-18,Fashion,Men,East,Marketplace,Card,1,97.52,0.0,97.52,28.27,New
+200452,2022-06-06,Electronics,Audio,West,Online,COD,3,143.42,0.0,430.26,110.57,New
+200453,2022-01-11,Sports,Outdoor,South,Mobile App,Netbanking,2,177.96,10.0,320.33,78.12,New
+200454,2022-08-24,Home & Kitchen,Furniture,West,Retail,Card,1,634.13,10.0,570.72,42.31,VIP
+200455,2023-01-02,Fashion,Kids,South,Marketplace,Card,3,81.72,10.0,220.64,19.09,VIP
+200456,2023-08-22,Electronics,Laptops,South,Retail,Card,2,407.92,25.0,611.88,6.12,VIP
+200457,2023-10-08,Home & Kitchen,Kitchenware,West,Retail,Netbanking,3,126.82,25.0,285.34,52.14,New
+200458,2022-03-22,Electronics,Laptops,West,Retail,Card,1,133.52,0.0,133.52,20.59,New
+200459,2022-12-22,Health,Supplements,North,Mobile App,COD,1,30.69,10.0,27.62,2.57,New
+200460,2023-03-08,Sports,Outdoor,North,Marketplace,Netbanking,1,313.79,10.0,282.41,61.99,Returning
+200461,2023-06-17,Fashion,Men,North,Marketplace,UPI,1,74.69,0.0,74.69,22.98,Returning
+200462,2023-07-30,Electronics,Laptops,North,Online,Netbanking,1,374.29,25.0,280.72,72.39,New
+200463,2022-06-14,Sports,Outdoor,South,Retail,COD,1,37.63,20.0,30.1,4.62,Returning
+200464,2022-01-09,Health,Personal Care,North,Marketplace,Card,1,47.01,15.0,39.96,6.92,Returning
+200465,2022-07-03,Fashion,Kids,East,Marketplace,COD,1,169.4,0.0,169.4,12.63,Returning
+200466,2022-06-06,Sports,Fitness,East,Online,Card,1,173.98,0.0,173.98,47.53,VIP
+200467,2022-07-18,Fashion,Kids,West,Online,Netbanking,3,44.43,20.0,106.63,17.89,Returning
+200468,2022-12-30,Health,Personal Care,North,Retail,Card,2,89.15,25.0,133.73,1.34,New
+200469,2022-10-12,Electronics,Audio,North,Online,Card,3,167.34,20.0,401.62,35.54,Returning
+200470,2022-04-16,Fashion,Kids,North,Online,Card,1,163.82,25.0,122.86,10.32,New
+200471,2022-08-26,Health,Personal Care,West,Online,Card,1,62.73,25.0,47.05,2.45,Returning
+200472,2022-11-02,Home & Kitchen,Furniture,South,Retail,Netbanking,2,56.39,20.0,90.22,22.97,New
+200473,2022-10-13,Home & Kitchen,Decor,West,Online,UPI,3,30.83,5.0,87.87,23.8,Returning
+200474,2023-03-26,Electronics,Accessories,North,Mobile App,Netbanking,1,124.01,25.0,93.01,3.13,Returning
+200475,2023-04-28,Fashion,Men,North,Online,UPI,1,31.61,10.0,28.45,6.68,New
+200476,2023-11-15,Health,Personal Care,South,Retail,UPI,3,51.3,25.0,115.42,1.15,VIP
+200477,2022-03-27,Fashion,Kids,East,Retail,COD,1,30.32,10.0,27.29,0.89,New
+200478,2022-02-06,Health,Supplements,West,Retail,UPI,1,62.62,0.0,62.62,21.03,Returning
+200479,2023-03-30,Home & Kitchen,Kitchenware,South,Mobile App,Card,3,31.11,20.0,74.66,16.33,New
+200480,2023-07-20,Health,Personal Care,South,Online,Card,1,116.29,0.0,116.29,25.75,Returning
+200481,2023-05-03,Home & Kitchen,Decor,South,Online,COD,1,90.41,5.0,85.89,17.67,Returning
+200482,2023-04-17,Health,Supplements,North,Online,COD,2,28.73,15.0,48.84,3.85,VIP
+200483,2022-01-12,Fashion,Kids,North,Marketplace,Card,1,26.58,0.0,26.58,5.28,Returning
+200484,2023-05-09,Fashion,Kids,South,Mobile App,Card,2,76.09,25.0,114.14,11.55,Returning
+200485,2023-07-01,Home & Kitchen,Decor,West,Mobile App,Card,1,99.29,5.0,94.33,9.76,Returning
+200486,2023-04-29,Home & Kitchen,Kitchenware,North,Mobile App,UPI,2,90.63,0.0,181.26,64.44,Returning
+200487,2023-03-05,Electronics,Laptops,East,Retail,Card,3,149.69,25.0,336.8,15.56,Returning
+200488,2023-08-28,Electronics,Accessories,East,Online,UPI,1,64.9,25.0,48.68,0.49,Returning
+200489,2023-03-02,Home & Kitchen,Kitchenware,North,Online,Netbanking,2,26.59,25.0,39.88,10.08,New
+200490,2022-08-14,Fashion,Men,South,Online,Netbanking,1,79.86,25.0,59.89,4.86,New
+200491,2022-10-09,Home & Kitchen,Furniture,South,Marketplace,Card,3,200.48,15.0,511.22,55.6,Returning
+200492,2022-12-04,Sports,Outdoor,East,Retail,COD,1,90.93,15.0,77.29,6.96,New
+200493,2023-10-13,Home & Kitchen,Kitchenware,West,Mobile App,Card,1,39.72,0.0,39.72,5.59,Returning
+200494,2023-02-22,Home & Kitchen,Furniture,North,Marketplace,UPI,2,56.32,0.0,112.64,7.07,Returning
+200495,2022-08-04,Fashion,Women,North,Mobile App,Card,1,266.04,0.0,266.04,64.4,New
+200496,2023-01-23,Electronics,Phones,West,Retail,UPI,2,278.96,25.0,418.44,15.98,Returning
+200497,2022-12-12,Health,Supplements,South,Mobile App,UPI,1,72.65,15.0,61.75,11.86,Returning
+200498,2022-02-09,Electronics,Accessories,South,Online,Card,1,88.24,20.0,70.59,8.95,VIP
+200499,2023-06-20,Home & Kitchen,Furniture,East,Online,Netbanking,2,349.68,25.0,524.52,5.25,Returning
+200500,2023-08-12,Fashion,Women,West,Online,Card,1,634.56,10.0,571.1,134.18,New
+200501,2022-01-03,Home & Kitchen,Furniture,West,Marketplace,COD,1,101.34,25.0,76.0,3.55,New
+200502,2023-12-05,Fashion,Women,South,Online,COD,1,60.23,10.0,54.21,13.77,Returning
+200503,2022-03-19,Electronics,Audio,East,Marketplace,Netbanking,1,146.17,20.0,116.94,19.6,New
+200504,2022-09-19,Fashion,Men,West,Online,UPI,1,106.64,0.0,106.64,34.92,Returning
+200505,2023-04-02,Home & Kitchen,Decor,North,Online,Netbanking,1,29.26,10.0,26.33,3.56,Returning
+200506,2023-09-19,Electronics,Laptops,West,Mobile App,Netbanking,1,111.5,10.0,100.35,13.85,Returning
+200507,2023-11-01,Electronics,Phones,North,Online,Card,2,231.74,0.0,463.48,86.03,VIP
+200508,2022-06-15,Home & Kitchen,Kitchenware,North,Retail,Netbanking,3,125.23,0.0,375.69,56.09,Returning
+200509,2023-06-19,Health,Supplements,East,Marketplace,Card,3,323.21,5.0,921.15,229.79,New
+200510,2023-09-23,Fashion,Men,North,Online,Card,1,34.76,25.0,26.07,0.7,Returning
+200511,2022-02-28,Electronics,Audio,West,Online,Netbanking,2,158.87,0.0,317.74,99.2,New
+200512,2023-09-04,Electronics,Accessories,North,Online,Card,1,105.01,0.0,105.01,33.06,Returning
+200513,2022-09-12,Fashion,Women,West,Online,Card,1,272.28,25.0,204.21,23.62,Returning
+200514,2023-03-04,Sports,Fitness,West,Online,Card,3,41.69,5.0,118.82,6.5,Returning
+200515,2022-09-08,Fashion,Women,East,Online,Card,1,43.15,25.0,32.36,4.57,New
+200516,2022-11-17,Sports,Fitness,South,Online,Card,1,65.25,5.0,61.99,12.51,VIP
+200517,2022-04-27,Electronics,Audio,East,Online,UPI,3,302.83,25.0,681.37,6.81,New
+200518,2022-02-21,Home & Kitchen,Kitchenware,East,Retail,COD,1,222.98,0.0,222.98,27.87,Returning
+200519,2022-06-11,Electronics,Phones,North,Online,COD,1,271.03,5.0,257.48,70.13,Returning
+200520,2022-05-14,Health,Personal Care,North,Retail,Card,1,86.9,10.0,78.21,7.24,New
+200521,2022-11-19,Fashion,Women,North,Retail,Card,1,634.6,0.0,634.6,74.61,Returning
+200522,2023-09-16,Sports,Fitness,East,Mobile App,Netbanking,1,70.31,5.0,66.79,15.87,Returning
+200523,2022-09-18,Electronics,Phones,East,Online,Card,1,390.13,20.0,312.1,45.44,Returning
+200524,2022-04-27,Sports,Outdoor,South,Marketplace,UPI,1,307.1,25.0,230.33,41.02,New
+200525,2023-01-18,Electronics,Audio,West,Online,UPI,1,103.24,0.0,103.24,21.57,Returning
+200526,2023-06-28,Health,Personal Care,East,Online,UPI,2,198.45,0.0,396.9,76.94,Returning
+200527,2023-06-28,Fashion,Women,West,Online,COD,1,33.04,5.0,31.39,4.25,Returning
+200528,2023-06-30,Electronics,Laptops,East,Online,COD,1,91.67,20.0,73.34,9.98,Returning
+200529,2023-12-20,Sports,Fitness,South,Marketplace,Netbanking,1,60.46,20.0,48.37,2.39,Returning
+200530,2022-08-02,Electronics,Phones,North,Online,Card,2,238.12,0.0,476.24,57.85,New
+200531,2022-05-20,Home & Kitchen,Kitchenware,East,Online,UPI,2,229.53,20.0,367.25,50.83,VIP
+200532,2023-09-26,Fashion,Kids,South,Retail,Card,1,98.57,0.0,98.57,25.31,Returning
+200533,2022-06-25,Electronics,Laptops,West,Online,Card,3,175.15,25.0,394.09,32.22,Returning
+200534,2023-07-17,Electronics,Phones,East,Mobile App,COD,1,222.38,15.0,189.02,30.69,New
+200535,2022-01-20,Health,Supplements,West,Online,Card,3,36.67,15.0,93.51,14.66,Returning
+200536,2022-10-08,Health,Personal Care,West,Online,Card,3,149.57,5.0,426.27,87.57,Returning
+200537,2023-12-15,Electronics,Laptops,North,Marketplace,Card,1,157.85,20.0,126.28,24.21,VIP
+200538,2023-09-29,Fashion,Kids,North,Online,Card,3,128.97,0.0,386.91,163.23,VIP
+200539,2022-12-12,Electronics,Accessories,North,Online,Card,2,61.16,10.0,110.09,15.92,VIP
+200540,2022-11-09,Fashion,Women,West,Online,Card,1,39.42,25.0,29.57,5.46,New
+200541,2023-03-21,Home & Kitchen,Furniture,South,Online,Card,1,34.67,10.0,31.2,4.96,New
+200542,2022-12-18,Fashion,Women,East,Marketplace,Card,1,247.42,0.0,247.42,26.85,New
+200543,2022-11-11,Fashion,Kids,West,Online,Card,1,80.12,0.0,80.12,10.34,New
+200544,2022-05-27,Fashion,Men,West,Online,COD,1,118.03,0.0,118.03,20.7,Returning
+200545,2023-03-23,Fashion,Men,South,Retail,COD,3,78.88,25.0,177.48,1.77,Returning
+200546,2022-01-29,Electronics,Accessories,West,Online,Netbanking,1,168.51,0.0,168.51,22.21,VIP
+200547,2023-09-17,Fashion,Men,South,Retail,Netbanking,2,165.88,20.0,265.41,23.86,Returning
+200548,2022-03-16,Fashion,Women,North,Online,COD,1,35.78,0.0,35.78,13.05,New
+200549,2022-06-09,Health,Personal Care,East,Mobile App,Card,2,45.61,5.0,86.66,6.0,New
+200550,2022-09-15,Fashion,Women,South,Online,Netbanking,1,47.99,20.0,38.39,7.78,Returning
+200551,2022-04-19,Electronics,Laptops,North,Online,UPI,1,317.36,0.0,317.36,27.96,New
+200552,2022-09-11,Sports,Fitness,North,Marketplace,Card,3,79.51,0.0,238.53,36.18,New
+200553,2022-06-26,Electronics,Audio,West,Retail,UPI,1,206.79,20.0,165.43,26.4,Returning
+200554,2022-04-16,Sports,Outdoor,South,Marketplace,Card,2,49.78,15.0,84.63,0.85,Returning
+200555,2022-03-29,Health,Personal Care,South,Online,Card,1,52.48,15.0,44.61,1.61,VIP
+200556,2022-04-29,Health,Personal Care,South,Retail,Card,1,49.88,25.0,37.41,0.37,Returning
+200557,2023-06-02,Electronics,Audio,East,Marketplace,UPI,3,98.1,25.0,220.72,2.21,Returning
+200558,2022-01-12,Fashion,Women,South,Retail,Card,3,28.31,0.0,84.93,14.19,Returning
+200559,2022-12-09,Fashion,Kids,North,Online,UPI,2,156.65,10.0,281.97,51.38,Returning
+200560,2022-02-08,Electronics,Laptops,West,Mobile App,Card,1,96.76,0.0,96.76,18.25,New
+200561,2022-05-13,Home & Kitchen,Kitchenware,West,Marketplace,Card,2,124.84,20.0,199.74,27.32,New
+200562,2023-09-11,Sports,Fitness,East,Online,Card,3,26.69,25.0,60.05,8.79,Returning
+200563,2023-07-03,Electronics,Laptops,East,Retail,Netbanking,2,212.82,10.0,383.08,84.49,Returning
+200564,2022-05-28,Electronics,Laptops,East,Online,UPI,1,208.6,5.0,198.17,20.92,Returning
+200565,2022-11-30,Home & Kitchen,Decor,South,Online,Card,1,48.64,20.0,38.91,7.94,New
+200566,2023-06-06,Health,Supplements,North,Mobile App,UPI,1,356.4,5.0,338.58,49.8,Returning
+200567,2022-02-14,Electronics,Phones,South,Marketplace,Netbanking,1,131.58,0.0,131.58,30.74,New
+200568,2022-10-05,Home & Kitchen,Kitchenware,West,Retail,Card,1,63.33,25.0,47.5,6.02,New
+200569,2023-10-03,Fashion,Women,West,Mobile App,Card,1,29.58,5.0,28.1,6.48,New
+200570,2023-07-24,Electronics,Audio,North,Retail,Card,3,156.24,5.0,445.28,73.48,Returning
+200571,2023-05-07,Electronics,Audio,West,Online,UPI,1,81.28,0.0,81.28,23.2,New
+200572,2022-10-30,Fashion,Kids,South,Online,Card,2,337.26,15.0,573.34,42.87,Returning
+200573,2023-10-20,Electronics,Phones,East,Mobile App,Card,2,302.48,20.0,483.97,4.84,Returning
+200574,2022-07-23,Home & Kitchen,Kitchenware,West,Marketplace,Card,3,83.28,5.0,237.35,16.47,New
+200575,2022-10-27,Electronics,Laptops,North,Retail,UPI,1,60.95,15.0,51.81,6.78,New
+200576,2022-07-09,Home & Kitchen,Furniture,West,Mobile App,Netbanking,1,435.01,5.0,413.26,4.13,Returning
+200577,2023-12-30,Electronics,Accessories,West,Online,Card,1,277.76,0.0,277.76,29.88,Returning
+200578,2022-03-28,Electronics,Phones,East,Online,Card,1,131.59,0.0,131.59,23.11,New
+200579,2022-08-21,Electronics,Phones,East,Online,Card,1,119.57,20.0,95.66,10.46,New
+200580,2022-05-03,Sports,Outdoor,West,Online,Card,1,55.57,25.0,41.68,8.74,Returning
+200581,2022-05-28,Home & Kitchen,Kitchenware,East,Online,Card,2,70.38,25.0,105.57,23.69,VIP
+200582,2023-01-28,Electronics,Laptops,West,Retail,COD,1,192.58,10.0,173.32,46.42,Returning
+200583,2023-04-20,Fashion,Women,East,Online,UPI,1,516.35,15.0,438.9,74.77,VIP
+200584,2023-03-21,Home & Kitchen,Furniture,East,Marketplace,UPI,3,66.19,5.0,188.64,40.49,New
+200585,2022-07-16,Home & Kitchen,Furniture,East,Online,Card,1,37.34,15.0,31.74,0.69,Returning
+200586,2023-11-19,Health,Supplements,West,Marketplace,Card,1,167.41,0.0,167.41,26.71,Returning
+200587,2022-01-29,Home & Kitchen,Decor,West,Online,Card,2,51.83,0.0,103.66,12.11,New
+200588,2022-10-15,Home & Kitchen,Kitchenware,East,Retail,Netbanking,1,79.46,5.0,75.49,12.84,Returning
+200589,2023-12-29,Health,Supplements,South,Retail,Card,1,95.07,0.0,95.07,27.33,New
+200590,2023-07-08,Home & Kitchen,Kitchenware,South,Online,Card,1,93.27,25.0,69.95,18.63,Returning
+200591,2023-11-11,Electronics,Laptops,West,Retail,Card,1,515.39,20.0,412.31,67.47,Returning
+200592,2023-04-14,Sports,Fitness,South,Online,UPI,1,236.82,0.0,236.82,32.19,New
+200593,2022-07-23,Electronics,Audio,West,Online,UPI,3,122.27,0.0,366.81,69.21,New
+200594,2023-05-19,Fashion,Kids,West,Marketplace,UPI,1,165.63,5.0,157.35,40.04,Returning
+200595,2023-09-26,Home & Kitchen,Kitchenware,South,Online,COD,2,37.93,20.0,60.69,0.61,Returning
+200596,2023-02-02,Sports,Fitness,North,Marketplace,UPI,2,159.55,25.0,239.33,29.55,Returning
+200597,2022-11-02,Fashion,Women,North,Online,Netbanking,2,112.86,25.0,169.29,1.69,VIP
+200598,2023-12-03,Health,Personal Care,South,Online,Card,1,76.88,20.0,61.5,0.63,Returning
+200599,2022-01-04,Electronics,Audio,South,Online,COD,3,125.72,10.0,339.44,23.17,Returning
+200600,2023-12-26,Electronics,Audio,South,Marketplace,UPI,1,156.36,0.0,156.36,40.51,New
+200601,2023-07-15,Fashion,Men,East,Online,Card,1,181.89,5.0,172.8,17.28,New
+200602,2022-02-12,Electronics,Audio,South,Mobile App,Card,1,113.66,0.0,113.66,34.95,New
+200603,2022-01-16,Health,Personal Care,East,Online,COD,1,56.66,5.0,53.83,3.62,New
+200604,2022-05-16,Electronics,Laptops,East,Online,Card,1,197.2,10.0,177.48,36.24,New
+200605,2023-07-05,Home & Kitchen,Kitchenware,West,Online,Card,1,90.73,5.0,86.19,17.97,New
+200606,2023-05-08,Electronics,Accessories,East,Retail,UPI,2,114.24,20.0,182.78,1.83,Returning
+200607,2023-01-08,Fashion,Men,South,Online,UPI,1,31.85,0.0,31.85,4.25,Returning
+200608,2023-10-20,Sports,Outdoor,East,Retail,Card,1,116.19,15.0,98.76,20.54,Returning
+200609,2023-07-25,Fashion,Kids,West,Online,COD,2,158.55,25.0,237.83,21.29,Returning
+200610,2022-07-08,Health,Supplements,North,Online,Card,1,304.09,25.0,228.07,26.76,Returning
+200611,2022-10-30,Electronics,Audio,South,Online,COD,3,132.9,25.0,299.03,11.74,New
+200612,2023-12-29,Fashion,Kids,North,Online,Netbanking,2,92.69,0.0,185.38,40.53,Returning
+200613,2023-06-27,Electronics,Phones,South,Retail,UPI,3,60.71,0.0,182.13,24.91,Returning
+200614,2023-12-09,Sports,Outdoor,South,Online,Card,1,196.24,25.0,147.18,16.71,Returning
+200615,2023-05-14,Sports,Outdoor,North,Online,Card,1,69.62,5.0,66.14,14.16,Returning
+200616,2023-07-28,Sports,Outdoor,East,Marketplace,UPI,3,375.76,10.0,1014.55,104.9,New
+200617,2022-04-05,Fashion,Kids,West,Online,Card,2,168.18,0.0,336.36,48.93,Returning
+200618,2022-03-13,Electronics,Audio,West,Retail,UPI,3,100.96,20.0,242.3,32.37,New
+200619,2022-04-12,Fashion,Men,East,Online,UPI,2,57.22,25.0,85.83,13.24,Returning
+200620,2022-02-24,Sports,Fitness,North,Marketplace,Card,1,140.7,15.0,119.59,30.5,New
+200621,2023-09-27,Fashion,Men,South,Retail,Card,1,114.13,0.0,114.13,29.55,Returning
+200622,2023-08-28,Home & Kitchen,Decor,West,Online,Netbanking,2,124.98,15.0,212.47,45.81,New
+200623,2022-05-25,Electronics,Laptops,East,Online,Card,3,67.97,15.0,173.32,27.06,Returning
+200624,2023-04-01,Health,Supplements,North,Marketplace,COD,1,36.24,25.0,27.18,1.31,Returning
+200625,2023-02-02,Sports,Fitness,West,Retail,Card,3,266.91,0.0,800.73,232.71,Returning
+200626,2022-01-17,Health,Supplements,North,Retail,Card,1,149.47,25.0,112.1,15.65,New
+200627,2022-11-25,Electronics,Laptops,East,Marketplace,Card,1,72.05,5.0,68.45,15.21,New
+200628,2023-09-15,Home & Kitchen,Kitchenware,South,Online,Card,2,413.97,10.0,745.15,77.84,New
+200629,2023-10-19,Fashion,Kids,West,Mobile App,COD,1,26.48,0.0,26.48,5.45,Returning
+200630,2022-08-20,Health,Personal Care,South,Retail,Card,1,47.19,5.0,44.83,6.0,New
+200631,2022-12-27,Fashion,Women,West,Retail,UPI,1,25.71,5.0,24.42,4.34,Returning
+200632,2022-04-03,Health,Supplements,East,Mobile App,Card,1,36.88,25.0,27.66,3.9,Returning
+200633,2023-03-24,Sports,Outdoor,East,Marketplace,UPI,1,136.52,25.0,102.39,12.19,Returning
+200634,2023-04-10,Electronics,Phones,East,Retail,Card,1,125.88,0.0,125.88,30.91,Returning
+200635,2023-06-27,Fashion,Women,East,Retail,Card,2,269.53,15.0,458.2,63.3,Returning
+200636,2023-01-19,Fashion,Women,North,Online,Card,3,175.01,5.0,498.78,94.21,Returning
+200637,2022-01-03,Fashion,Kids,East,Online,COD,1,111.94,0.0,111.94,14.85,Returning
+200638,2023-07-29,Home & Kitchen,Kitchenware,West,Online,Card,3,141.72,0.0,425.16,22.63,New
+200639,2022-03-10,Fashion,Kids,West,Marketplace,COD,2,28.65,10.0,51.57,7.96,Returning
+200640,2022-11-13,Home & Kitchen,Decor,North,Online,Netbanking,3,262.89,25.0,591.5,15.93,VIP
+200641,2022-09-12,Sports,Fitness,West,Marketplace,Card,1,57.62,5.0,54.74,5.37,Returning
+200642,2023-01-10,Fashion,Kids,West,Marketplace,COD,1,104.39,20.0,83.51,0.84,Returning
+200643,2022-05-15,Electronics,Phones,South,Mobile App,Card,1,109.68,15.0,93.23,7.26,Returning
+200644,2023-10-25,Sports,Outdoor,North,Online,Card,1,124.6,10.0,112.14,15.96,Returning
+200645,2022-03-18,Electronics,Laptops,East,Retail,COD,2,164.9,5.0,313.31,36.22,Returning
+200646,2023-06-21,Fashion,Men,North,Online,Card,1,281.57,15.0,239.33,64.08,Returning
+200647,2023-10-13,Electronics,Audio,West,Retail,Card,2,108.24,0.0,216.48,34.72,Returning
+200648,2023-07-06,Electronics,Phones,South,Online,UPI,2,168.98,0.0,337.96,97.93,New
+200649,2023-04-24,Fashion,Kids,South,Online,Card,1,105.57,10.0,95.01,16.43,New
+200650,2023-12-26,Electronics,Phones,East,Online,UPI,2,114.21,0.0,228.42,51.19,Returning
+200651,2022-05-29,Electronics,Audio,South,Retail,Card,1,378.49,25.0,283.87,38.44,Returning
+200652,2022-03-16,Sports,Outdoor,North,Marketplace,Netbanking,1,96.31,10.0,86.68,21.6,Returning
+200653,2022-02-10,Fashion,Men,East,Online,COD,2,66.87,25.0,100.31,26.75,New
+200654,2023-06-30,Electronics,Laptops,South,Online,Netbanking,1,115.42,10.0,103.88,24.8,Returning
+200655,2022-07-31,Electronics,Accessories,South,Retail,Netbanking,2,92.71,25.0,139.06,15.49,New
+200656,2023-05-28,Home & Kitchen,Furniture,North,Online,Card,2,141.22,0.0,282.44,81.0,Returning
+200657,2022-08-05,Health,Personal Care,West,Retail,Netbanking,1,116.51,0.0,116.51,22.58,New
+200658,2022-01-11,Electronics,Laptops,West,Marketplace,Card,2,101.07,0.0,202.14,19.16,Returning
+200659,2023-12-10,Electronics,Audio,West,Online,UPI,3,178.13,25.0,400.79,87.17,New
+200660,2022-07-01,Sports,Fitness,East,Online,Card,1,182.82,15.0,155.4,2.58,Returning
+200661,2023-05-05,Sports,Outdoor,South,Online,Card,1,105.47,5.0,100.2,11.83,Returning
+200662,2023-03-17,Fashion,Women,West,Online,COD,1,70.77,5.0,67.23,7.93,New
+200663,2022-03-07,Electronics,Accessories,North,Online,Card,2,147.87,10.0,266.17,60.77,New
+200664,2022-11-13,Fashion,Kids,West,Online,Card,3,150.38,25.0,338.36,6.74,Returning
+200665,2023-12-22,Health,Personal Care,East,Retail,Card,1,312.65,15.0,265.75,45.02,New
+200666,2023-07-29,Sports,Fitness,East,Online,Netbanking,2,25.17,20.0,40.27,5.29,New
+200667,2023-07-30,Sports,Outdoor,West,Marketplace,Card,3,88.34,15.0,225.27,9.71,Returning
+200668,2022-02-03,Electronics,Audio,East,Online,Card,1,77.53,15.0,65.9,0.66,New
+200669,2023-06-01,Sports,Outdoor,West,Retail,Card,1,26.09,20.0,20.87,1.61,New
+200670,2022-06-10,Electronics,Accessories,South,Retail,Netbanking,1,68.89,15.0,58.56,8.59,Returning
+200671,2023-05-02,Electronics,Phones,West,Mobile App,Card,1,329.8,20.0,263.84,56.17,Returning
+200672,2022-03-04,Electronics,Accessories,East,Retail,COD,2,85.41,5.0,162.28,16.4,New
+200673,2023-07-04,Fashion,Men,South,Online,Card,1,240.29,20.0,192.23,50.44,New
+200674,2023-10-16,Home & Kitchen,Furniture,North,Online,UPI,2,52.82,15.0,89.79,10.38,VIP
+200675,2022-10-07,Electronics,Laptops,South,Online,UPI,1,79.07,0.0,79.07,17.76,New
+200676,2023-04-18,Electronics,Phones,West,Online,Card,1,263.86,25.0,197.9,1.98,Returning
+200677,2022-12-22,Health,Supplements,East,Retail,UPI,2,127.36,10.0,229.25,41.98,Returning
+200678,2022-10-27,Home & Kitchen,Decor,East,Online,COD,1,47.62,10.0,42.86,6.98,Returning
+200679,2023-06-15,Home & Kitchen,Furniture,West,Retail,Card,2,80.23,0.0,160.46,48.98,Returning
+200680,2022-03-17,Sports,Outdoor,North,Marketplace,UPI,3,106.13,15.0,270.63,13.97,Returning
+200681,2022-07-03,Sports,Fitness,East,Retail,Card,1,87.55,0.0,87.55,15.5,Returning
+200682,2023-06-05,Fashion,Men,South,Retail,Card,1,33.01,10.0,29.71,4.74,New
+200683,2022-11-21,Health,Supplements,West,Marketplace,Card,1,41.8,0.0,41.8,6.51,VIP
+200684,2023-09-25,Electronics,Laptops,North,Online,Netbanking,2,358.48,0.0,716.96,124.53,Returning
+200685,2023-06-13,Fashion,Men,West,Marketplace,Card,1,115.76,0.0,115.76,34.61,Returning
+200686,2023-03-19,Sports,Outdoor,East,Online,Card,1,484.16,0.0,484.16,141.82,Returning
+200687,2022-11-15,Home & Kitchen,Furniture,South,Retail,UPI,3,226.18,10.0,610.69,86.82,Returning
+200688,2022-07-11,Fashion,Men,West,Online,Netbanking,1,49.36,0.0,49.36,10.5,New
+200689,2023-09-20,Sports,Outdoor,East,Online,Netbanking,1,39.68,0.0,39.68,10.76,New
+200690,2022-12-23,Health,Supplements,North,Marketplace,UPI,1,364.43,0.0,364.43,57.1,Returning
+200691,2023-12-06,Sports,Outdoor,South,Online,Card,1,139.39,5.0,132.42,16.13,New
+200692,2023-03-06,Health,Supplements,West,Online,UPI,2,55.48,5.0,105.41,10.11,New
+200693,2022-02-23,Health,Supplements,East,Online,COD,1,95.71,20.0,76.57,12.91,Returning
+200694,2022-03-16,Health,Personal Care,South,Online,Card,1,115.65,15.0,98.3,0.98,VIP
+200695,2023-09-04,Fashion,Women,West,Retail,Card,3,151.23,0.0,453.69,106.49,Returning
+200696,2022-08-15,Health,Supplements,South,Online,Card,2,39.15,5.0,74.38,21.83,Returning
+200697,2023-02-19,Electronics,Audio,North,Marketplace,COD,3,143.59,10.0,387.69,6.1,Returning
+200698,2022-09-12,Electronics,Accessories,East,Online,Card,1,174.49,0.0,174.49,12.21,New
+200699,2022-01-01,Fashion,Women,West,Mobile App,Card,3,44.34,0.0,133.02,13.54,New
+200700,2022-05-20,Fashion,Women,North,Online,Card,3,96.5,0.0,289.5,49.76,VIP
+200701,2023-07-24,Electronics,Audio,North,Marketplace,COD,1,185.91,10.0,167.32,42.08,New
+200702,2022-03-26,Fashion,Men,East,Retail,Card,1,52.91,25.0,39.68,4.84,New
+200703,2022-03-10,Sports,Fitness,South,Mobile App,Card,2,64.77,20.0,103.63,2.5,Returning
+200704,2022-07-16,Electronics,Phones,East,Online,Card,2,115.72,5.0,219.87,59.67,Returning
+200705,2022-03-23,Electronics,Phones,East,Retail,Card,1,67.14,10.0,60.43,10.13,New
+200706,2022-12-16,Health,Personal Care,West,Mobile App,COD,1,102.42,15.0,87.06,0.87,Returning
+200707,2022-10-13,Fashion,Women,West,Retail,COD,2,156.19,0.0,312.38,15.56,New
+200708,2022-12-07,Fashion,Women,North,Retail,Card,2,130.62,0.0,261.24,98.64,Returning
+200709,2023-09-03,Electronics,Phones,North,Online,Card,1,167.52,0.0,167.52,29.2,VIP
+200710,2022-01-01,Electronics,Phones,South,Online,Card,1,165.72,15.0,140.86,20.11,VIP
+200711,2023-11-10,Health,Personal Care,South,Online,UPI,1,130.54,20.0,104.43,27.65,New
+200712,2023-09-16,Fashion,Women,West,Retail,UPI,1,238.06,0.0,238.06,58.14,VIP
+200713,2023-03-11,Electronics,Phones,West,Online,COD,1,118.39,25.0,88.79,3.41,Returning
+200714,2023-02-14,Fashion,Kids,East,Mobile App,Card,1,72.71,5.0,69.07,13.73,Returning
+200715,2022-09-05,Electronics,Audio,East,Online,Netbanking,1,156.72,15.0,133.21,20.36,Returning
+200716,2023-10-09,Electronics,Phones,South,Marketplace,Netbanking,1,63.44,25.0,47.58,6.25,Returning
+200717,2022-08-05,Fashion,Kids,East,Mobile App,Netbanking,3,149.94,0.0,449.82,104.22,New
+200718,2023-10-05,Fashion,Kids,East,Marketplace,Netbanking,3,43.25,25.0,97.31,6.07,Returning
+200719,2022-09-26,Fashion,Women,East,Mobile App,Card,1,86.23,0.0,86.23,15.36,Returning
+200720,2022-12-28,Electronics,Accessories,East,Mobile App,Card,1,117.67,25.0,88.25,0.88,Returning
+200721,2022-12-23,Electronics,Audio,South,Online,Card,1,99.78,20.0,79.82,0.8,New
+200722,2022-05-14,Health,Supplements,East,Online,Card,1,57.53,15.0,48.9,7.05,Returning
+200723,2022-12-21,Sports,Outdoor,East,Mobile App,COD,2,117.54,0.0,235.08,59.87,New
+200724,2023-11-18,Electronics,Accessories,South,Online,Card,3,365.68,10.0,987.34,129.42,Returning
+200725,2022-01-21,Sports,Fitness,West,Retail,Netbanking,1,44.17,0.0,44.17,9.4,Returning
+200726,2022-03-16,Health,Personal Care,West,Retail,Card,1,75.3,15.0,64.0,2.1,Returning
+200727,2022-03-10,Electronics,Laptops,West,Mobile App,Card,2,305.36,15.0,519.11,41.41,Returning
+200728,2022-08-13,Health,Supplements,East,Marketplace,Card,3,282.93,0.0,848.79,82.87,Returning
+200729,2022-06-16,Fashion,Women,North,Online,Card,3,93.88,0.0,281.64,56.55,New
+200730,2023-04-23,Sports,Fitness,West,Marketplace,COD,1,90.46,0.0,90.46,23.88,New
+200731,2023-10-22,Home & Kitchen,Decor,North,Online,Card,1,29.01,0.0,29.01,4.92,Returning
+200732,2023-05-16,Electronics,Audio,East,Marketplace,Netbanking,1,123.36,10.0,111.02,27.21,Returning
+200733,2022-02-10,Home & Kitchen,Kitchenware,East,Marketplace,Card,1,26.94,25.0,20.21,0.2,New
+200734,2023-06-24,Health,Personal Care,West,Online,Netbanking,1,85.49,25.0,64.12,2.27,Returning
+200735,2023-09-07,Electronics,Phones,South,Online,UPI,1,109.06,10.0,98.15,5.75,New
+200736,2023-04-04,Electronics,Phones,North,Online,UPI,1,193.12,25.0,144.84,17.17,New
+200737,2023-10-19,Home & Kitchen,Kitchenware,South,Retail,UPI,2,350.61,15.0,596.04,115.61,Returning
+200738,2022-07-27,Home & Kitchen,Furniture,East,Online,Card,1,46.56,0.0,46.56,6.02,New
+200739,2023-08-09,Fashion,Men,West,Retail,Card,2,265.22,15.0,450.87,4.51,New
+200740,2023-09-19,Fashion,Men,West,Retail,Card,1,58.73,20.0,46.98,7.2,Returning
+200741,2023-05-01,Fashion,Men,West,Mobile App,COD,2,125.68,15.0,213.66,29.4,New
+200742,2022-06-05,Sports,Outdoor,South,Online,Netbanking,3,105.59,25.0,237.58,14.07,Returning
+200743,2022-05-04,Sports,Outdoor,North,Retail,COD,1,322.96,15.0,274.52,33.43,Returning
+200744,2022-02-01,Electronics,Phones,South,Retail,Card,2,62.3,10.0,112.14,27.71,New
+200745,2023-07-19,Electronics,Phones,North,Online,UPI,3,193.57,15.0,493.6,84.17,New
+200746,2023-07-26,Fashion,Kids,North,Online,Card,2,401.29,5.0,762.45,148.65,VIP
+200747,2022-03-10,Fashion,Men,West,Online,UPI,1,88.63,25.0,66.47,0.66,Returning
+200748,2022-10-07,Home & Kitchen,Decor,West,Marketplace,Netbanking,1,215.4,20.0,172.32,6.77,VIP
+200749,2023-06-06,Home & Kitchen,Kitchenware,West,Mobile App,Card,1,326.75,0.0,326.75,92.56,Returning
+200750,2022-07-27,Electronics,Laptops,East,Online,Card,1,148.51,10.0,133.66,28.81,Returning
+200751,2023-10-27,Fashion,Men,South,Mobile App,Card,2,75.77,0.0,151.54,24.69,New
+200752,2022-05-10,Sports,Outdoor,South,Online,Card,3,144.91,5.0,412.99,55.69,Returning
+200753,2023-06-09,Sports,Outdoor,South,Marketplace,Card,1,136.55,0.0,136.55,16.39,VIP
+200754,2023-12-15,Sports,Outdoor,East,Marketplace,Card,2,141.19,25.0,211.78,2.12,New
+200755,2023-09-19,Home & Kitchen,Furniture,North,Marketplace,Card,1,74.0,15.0,62.9,3.27,New
+200756,2023-08-22,Fashion,Kids,South,Mobile App,COD,1,83.59,5.0,79.41,13.82,VIP
+200757,2022-08-18,Electronics,Phones,West,Mobile App,Card,1,164.08,0.0,164.08,8.72,Returning
+200758,2023-04-30,Fashion,Women,East,Online,Netbanking,3,100.6,25.0,226.35,16.08,New
+200759,2023-11-06,Electronics,Phones,West,Online,Card,3,73.16,0.0,219.48,19.53,Returning
+200760,2022-12-13,Electronics,Laptops,South,Online,Netbanking,1,145.61,25.0,109.21,23.19,Returning
+200761,2022-07-28,Home & Kitchen,Kitchenware,North,Online,UPI,3,37.98,10.0,102.55,16.91,VIP
+200762,2023-06-01,Health,Personal Care,South,Retail,Card,1,142.84,10.0,128.56,10.6,Returning
+200763,2023-09-02,Home & Kitchen,Decor,North,Online,Card,1,33.41,0.0,33.41,9.07,VIP
+200764,2023-05-22,Home & Kitchen,Kitchenware,South,Marketplace,Netbanking,2,132.12,20.0,211.39,25.51,Returning
+200765,2023-04-22,Home & Kitchen,Furniture,East,Marketplace,Card,1,137.67,25.0,103.25,3.82,New
+200766,2022-08-07,Fashion,Men,East,Online,Card,3,144.07,15.0,367.38,50.0,New
+200767,2023-06-16,Home & Kitchen,Decor,East,Mobile App,Card,1,68.72,10.0,61.85,8.06,Returning
+200768,2023-11-08,Fashion,Kids,East,Online,COD,3,59.87,0.0,179.61,37.61,New
+200769,2022-06-27,Electronics,Phones,North,Online,UPI,1,163.09,5.0,154.94,40.04,Returning
+200770,2023-10-16,Fashion,Women,West,Retail,Card,1,43.65,20.0,34.92,0.71,Returning
+200771,2022-11-03,Electronics,Audio,North,Online,UPI,1,263.89,20.0,211.11,2.11,VIP
+200772,2023-07-31,Home & Kitchen,Kitchenware,East,Marketplace,UPI,1,32.74,10.0,29.47,4.52,Returning
+200773,2022-06-10,Electronics,Laptops,East,Retail,UPI,1,220.7,10.0,198.63,42.68,New
+200774,2022-07-08,Electronics,Laptops,East,Mobile App,UPI,3,131.3,0.0,393.9,39.12,Returning
+200775,2022-11-20,Home & Kitchen,Decor,West,Retail,Card,1,64.0,5.0,60.8,5.86,Returning
+200776,2022-05-04,Fashion,Kids,North,Retail,Netbanking,2,53.14,15.0,90.34,12.14,Returning
+200777,2022-09-18,Fashion,Men,North,Mobile App,Netbanking,1,265.38,25.0,199.03,12.53,New
+200778,2023-08-25,Fashion,Men,North,Online,Netbanking,3,111.27,5.0,317.12,76.6,New
+200779,2023-02-01,Fashion,Kids,South,Mobile App,Netbanking,1,87.68,0.0,87.68,28.27,Returning
+200780,2023-05-07,Health,Supplements,South,Marketplace,COD,1,137.91,0.0,137.91,33.82,New
+200781,2023-07-28,Electronics,Audio,East,Marketplace,Netbanking,1,430.42,15.0,365.86,28.82,Returning
+200782,2023-04-10,Fashion,Women,North,Online,UPI,1,85.35,5.0,81.08,21.89,Returning
+200783,2023-02-21,Fashion,Men,North,Retail,Card,2,40.4,10.0,72.72,19.71,Returning
+200784,2023-01-16,Sports,Fitness,East,Online,Netbanking,1,110.13,0.0,110.13,21.8,Returning
+200785,2023-07-24,Health,Personal Care,South,Online,Card,3,224.84,10.0,607.07,122.43,VIP
+200786,2023-06-26,Health,Supplements,South,Mobile App,Card,2,163.85,20.0,262.16,24.72,Returning
+200787,2022-01-03,Fashion,Men,South,Online,Card,1,163.28,5.0,155.12,19.22,New
+200788,2023-11-11,Sports,Outdoor,South,Mobile App,Card,2,94.26,10.0,169.67,8.01,Returning
+200789,2022-06-25,Home & Kitchen,Furniture,East,Marketplace,UPI,2,30.25,5.0,57.47,18.61,VIP
+200790,2022-03-07,Sports,Outdoor,South,Marketplace,Netbanking,1,141.18,0.0,141.18,13.62,Returning
+200791,2022-05-31,Electronics,Audio,North,Mobile App,Card,2,76.18,0.0,152.36,11.67,VIP
+200792,2022-03-05,Health,Personal Care,North,Mobile App,Netbanking,1,56.48,20.0,45.18,10.98,Returning
+200793,2022-04-15,Electronics,Accessories,West,Online,Card,1,66.39,10.0,59.75,3.78,New
+200794,2023-05-02,Electronics,Accessories,West,Retail,UPI,1,240.73,10.0,216.66,33.4,Returning
+200795,2023-05-23,Fashion,Kids,East,Online,Card,2,62.9,15.0,106.93,9.88,Returning
+200796,2022-09-21,Electronics,Laptops,East,Mobile App,Card,1,88.74,20.0,70.99,14.57,Returning
+200797,2022-08-31,Fashion,Kids,East,Online,COD,1,99.72,25.0,74.79,9.96,Returning
+200798,2023-06-14,Fashion,Men,East,Mobile App,Card,1,205.34,25.0,154.0,14.69,New
+200799,2023-12-16,Home & Kitchen,Decor,East,Marketplace,Card,1,200.23,5.0,190.22,41.74,New
+200800,2022-11-02,Home & Kitchen,Decor,South,Mobile App,COD,1,406.76,10.0,366.08,66.77,Returning
+200801,2022-03-01,Sports,Outdoor,West,Retail,Card,1,102.49,0.0,102.49,24.94,VIP
+200802,2022-09-23,Health,Personal Care,North,Mobile App,Card,3,65.41,25.0,147.17,10.42,Returning
+200803,2023-04-12,Fashion,Men,South,Mobile App,Card,1,62.89,0.0,62.89,14.49,Returning
+200804,2022-11-01,Sports,Fitness,West,Marketplace,COD,3,239.89,25.0,539.75,5.4,Returning
+200805,2023-01-05,Home & Kitchen,Decor,East,Marketplace,UPI,3,31.99,0.0,95.97,22.27,VIP
+200806,2023-05-23,Sports,Fitness,East,Online,UPI,3,39.07,0.0,117.21,26.54,VIP
+200807,2023-11-10,Sports,Outdoor,South,Retail,Card,3,59.91,15.0,152.77,35.44,Returning
+200808,2022-12-07,Home & Kitchen,Kitchenware,North,Mobile App,COD,1,58.09,0.0,58.09,15.81,New
+200809,2023-02-23,Electronics,Accessories,South,Retail,UPI,1,79.04,25.0,59.28,0.59,Returning
+200810,2022-05-20,Home & Kitchen,Kitchenware,East,Online,Card,2,59.8,0.0,119.6,13.75,Returning
+200811,2022-05-28,Electronics,Laptops,North,Retail,Card,1,182.28,25.0,136.71,26.95,New
+200812,2023-07-06,Home & Kitchen,Kitchenware,North,Mobile App,Card,1,190.69,5.0,181.16,25.86,New
+200813,2023-03-23,Electronics,Accessories,East,Marketplace,Card,1,70.59,20.0,56.47,0.56,New
+200814,2022-08-22,Health,Supplements,East,Retail,COD,3,167.94,5.0,478.63,128.6,VIP
+200815,2023-10-12,Fashion,Women,South,Retail,Card,1,178.86,5.0,169.92,27.53,Returning
+200816,2023-04-14,Health,Supplements,South,Marketplace,Card,1,153.41,5.0,145.74,15.4,Returning
+200817,2022-07-04,Home & Kitchen,Furniture,West,Online,UPI,1,33.65,5.0,31.97,5.2,Returning
+200818,2022-10-11,Home & Kitchen,Furniture,South,Online,UPI,1,194.71,15.0,165.5,42.36,New
+200819,2022-09-26,Health,Supplements,East,Online,Netbanking,1,101.73,0.0,101.73,23.02,New
+200820,2022-11-17,Electronics,Accessories,South,Retail,Card,3,67.21,5.0,191.55,47.09,New
+200821,2023-02-04,Electronics,Audio,North,Online,Netbanking,2,81.22,5.0,154.32,28.07,New
+200822,2023-12-15,Fashion,Men,North,Online,Card,1,212.64,0.0,212.64,32.65,New
+200823,2023-02-05,Electronics,Phones,North,Online,Card,1,80.0,25.0,60.0,4.53,Returning
+200824,2023-10-10,Fashion,Kids,North,Marketplace,Card,1,98.37,15.0,83.61,19.45,New
+200825,2023-07-24,Sports,Outdoor,West,Marketplace,UPI,1,125.86,25.0,94.39,0.94,New
+200826,2023-11-11,Fashion,Men,North,Online,UPI,2,188.62,0.0,377.24,13.06,Returning
+200827,2023-10-04,Sports,Fitness,North,Online,Netbanking,1,68.2,10.0,61.38,3.1,Returning
+200828,2022-01-04,Home & Kitchen,Kitchenware,East,Online,COD,1,113.37,0.0,113.37,29.74,New
+200829,2022-01-12,Home & Kitchen,Furniture,South,Mobile App,COD,2,109.51,25.0,164.27,19.49,New
+200830,2022-01-13,Sports,Fitness,West,Mobile App,Card,1,104.5,15.0,88.83,4.1,VIP
+200831,2022-12-20,Home & Kitchen,Kitchenware,West,Marketplace,Card,2,186.83,15.0,317.61,10.32,New
+200832,2023-11-02,Electronics,Laptops,North,Online,Card,3,133.63,0.0,400.89,91.47,VIP
+200833,2023-10-02,Sports,Outdoor,East,Retail,Netbanking,1,126.4,25.0,94.8,7.74,New
+200834,2023-09-22,Home & Kitchen,Furniture,North,Marketplace,UPI,1,100.02,15.0,85.02,13.43,Returning
+200835,2022-03-02,Electronics,Audio,West,Marketplace,Card,1,131.32,0.0,131.32,25.6,Returning
+200836,2023-06-17,Electronics,Laptops,North,Retail,UPI,1,198.56,15.0,168.78,40.53,Returning
+200837,2023-06-08,Fashion,Kids,West,Mobile App,UPI,1,171.22,0.0,171.22,14.93,Returning
+200838,2023-07-19,Electronics,Phones,South,Marketplace,Card,1,143.93,20.0,115.14,19.67,Returning
+200839,2022-06-08,Electronics,Accessories,West,Marketplace,Card,1,100.98,10.0,90.88,12.95,Returning
+200840,2022-08-01,Electronics,Accessories,South,Mobile App,Card,1,106.17,15.0,90.24,22.64,Returning
+200841,2022-03-20,Fashion,Kids,South,Online,Card,1,89.74,20.0,71.79,17.75,New
+200842,2022-12-20,Health,Supplements,North,Online,Card,3,90.22,15.0,230.06,21.38,New
+200843,2022-11-20,Electronics,Audio,South,Retail,Card,2,508.51,0.0,1017.02,269.61,New
+200844,2022-09-05,Home & Kitchen,Kitchenware,East,Mobile App,Card,1,101.21,25.0,75.91,1.88,New
+200845,2023-07-28,Sports,Fitness,West,Online,UPI,1,114.09,25.0,85.57,10.49,New
+200846,2022-12-21,Home & Kitchen,Furniture,East,Retail,UPI,2,34.64,10.0,62.35,8.9,Returning
+200847,2023-02-08,Electronics,Phones,West,Online,Card,3,178.4,0.0,535.2,86.1,New
+200848,2022-05-28,Home & Kitchen,Decor,North,Retail,Card,1,99.58,20.0,79.66,10.18,New
+200849,2022-01-16,Sports,Fitness,North,Online,Card,1,52.93,5.0,50.28,3.44,Returning
+200850,2022-05-05,Fashion,Men,North,Retail,Card,1,159.06,0.0,159.06,31.43,VIP
+200851,2022-10-26,Electronics,Audio,North,Retail,Card,1,171.5,0.0,171.5,48.08,Returning
+200852,2022-07-07,Health,Supplements,East,Online,UPI,2,245.97,10.0,442.75,113.37,VIP
+200853,2022-11-09,Fashion,Women,North,Mobile App,UPI,3,145.8,20.0,349.92,7.45,VIP
+200854,2022-04-13,Home & Kitchen,Furniture,East,Online,Card,3,74.49,15.0,189.95,34.54,Returning
+200855,2022-12-31,Electronics,Audio,South,Online,UPI,1,323.64,0.0,323.64,48.4,Returning
+200856,2022-06-17,Sports,Fitness,South,Online,Card,1,184.36,5.0,175.14,48.53,Returning
+200857,2022-01-23,Health,Supplements,North,Marketplace,COD,2,86.93,0.0,173.86,17.83,New
+200858,2022-09-02,Fashion,Women,North,Online,Card,1,35.59,0.0,35.59,4.57,New
+200859,2023-11-11,Home & Kitchen,Kitchenware,West,Online,COD,1,50.78,25.0,38.09,1.75,Returning
+200860,2023-09-02,Health,Personal Care,South,Retail,COD,1,249.09,5.0,236.64,46.0,New
+200861,2022-05-02,Health,Personal Care,North,Retail,Card,1,143.05,15.0,121.59,20.56,Returning
+200862,2023-04-03,Sports,Outdoor,East,Online,Card,1,54.8,25.0,41.1,0.41,Returning
+200863,2022-01-27,Home & Kitchen,Furniture,North,Marketplace,UPI,3,42.31,25.0,95.2,13.56,Returning
+200864,2022-10-23,Fashion,Women,West,Marketplace,Card,1,158.43,20.0,126.74,16.46,Returning
+200865,2022-10-12,Sports,Outdoor,North,Online,Card,1,71.98,5.0,68.38,21.17,New
+200866,2022-01-27,Health,Personal Care,East,Online,Card,1,97.38,15.0,82.77,7.58,Returning
+200867,2022-05-26,Electronics,Accessories,South,Mobile App,UPI,1,98.4,20.0,78.72,15.08,VIP
+200868,2023-01-08,Fashion,Men,South,Online,Card,2,33.15,10.0,59.67,7.87,Returning
+200869,2023-12-19,Electronics,Audio,North,Online,COD,1,83.54,0.0,83.54,17.87,VIP
+200870,2022-01-09,Fashion,Kids,East,Online,Card,1,300.51,15.0,255.43,17.41,New
+200871,2023-03-03,Sports,Outdoor,South,Online,Card,1,65.13,10.0,58.62,9.91,VIP
+200872,2023-09-12,Sports,Fitness,South,Online,Card,1,63.9,25.0,47.92,11.7,Returning
+200873,2022-06-01,Fashion,Men,South,Marketplace,Card,1,209.3,15.0,177.91,15.91,Returning
+200874,2023-02-05,Home & Kitchen,Kitchenware,West,Online,Card,1,177.91,0.0,177.91,32.83,VIP
+200875,2022-12-26,Sports,Outdoor,West,Marketplace,UPI,1,158.97,10.0,143.07,28.42,Returning
+200876,2023-08-23,Electronics,Audio,North,Marketplace,UPI,1,149.26,25.0,111.94,7.52,New
+200877,2023-03-01,Sports,Outdoor,West,Mobile App,UPI,1,64.33,0.0,64.33,15.45,Returning
+200878,2023-10-04,Electronics,Phones,North,Mobile App,Card,1,344.13,10.0,309.72,78.13,New
+200879,2023-04-18,Sports,Fitness,West,Online,Card,1,232.22,10.0,209.0,37.44,New
+200880,2022-03-08,Sports,Fitness,North,Marketplace,Card,1,112.39,20.0,89.91,21.73,Returning
+200881,2023-10-30,Electronics,Laptops,East,Retail,UPI,1,65.55,0.0,65.55,5.62,Returning
+200882,2022-12-14,Home & Kitchen,Furniture,North,Mobile App,Card,1,275.48,10.0,247.93,35.0,New
+200883,2023-03-08,Health,Personal Care,West,Online,COD,1,479.59,0.0,479.59,126.26,VIP
+200884,2022-12-09,Health,Supplements,West,Retail,Netbanking,1,40.05,5.0,38.05,10.75,Returning
+200885,2022-07-25,Home & Kitchen,Furniture,West,Mobile App,UPI,3,30.09,0.0,90.27,21.13,New
+200886,2022-02-03,Fashion,Women,East,Marketplace,Card,1,81.91,0.0,81.91,18.87,Returning
+200887,2022-02-10,Fashion,Women,North,Mobile App,Card,3,30.37,20.0,72.89,6.34,Returning
+200888,2023-12-02,Health,Personal Care,South,Online,Card,3,211.19,5.0,601.89,129.52,VIP
+200889,2022-03-23,Fashion,Women,East,Retail,Netbanking,2,118.27,10.0,212.89,79.81,New
+200890,2023-05-02,Fashion,Men,North,Online,UPI,1,186.04,20.0,148.83,13.62,Returning
+200891,2022-09-08,Health,Personal Care,West,Online,UPI,1,153.99,0.0,153.99,20.57,VIP
+200892,2023-06-23,Electronics,Accessories,West,Retail,Card,1,146.09,25.0,109.57,7.64,Returning
+200893,2022-05-28,Home & Kitchen,Furniture,East,Mobile App,Card,3,68.74,10.0,185.6,1.86,New
+200894,2023-01-18,Home & Kitchen,Decor,North,Mobile App,Netbanking,1,74.73,0.0,74.73,9.65,VIP
+200895,2022-03-18,Sports,Outdoor,South,Online,Card,1,51.88,0.0,51.88,12.47,Returning
+200896,2023-12-30,Sports,Fitness,West,Online,Card,1,99.98,0.0,99.98,18.29,Returning
+200897,2023-07-19,Home & Kitchen,Decor,South,Online,UPI,1,49.48,20.0,39.58,1.1,New
+200898,2022-10-15,Home & Kitchen,Kitchenware,North,Marketplace,Netbanking,1,42.48,5.0,40.36,6.29,Returning
+200899,2023-12-04,Home & Kitchen,Kitchenware,East,Mobile App,UPI,1,202.5,10.0,182.25,1.82,VIP
+200900,2022-09-15,Health,Personal Care,North,Retail,UPI,1,85.87,5.0,81.58,4.98,Returning
+200901,2022-05-03,Home & Kitchen,Kitchenware,East,Online,Card,1,32.68,0.0,32.68,2.4,New
+200902,2022-10-21,Electronics,Audio,North,Retail,Card,1,95.58,20.0,76.46,0.76,New
+200903,2022-07-04,Fashion,Men,South,Marketplace,Card,1,105.46,5.0,100.19,11.36,Returning
+200904,2023-05-23,Fashion,Kids,North,Online,COD,3,285.64,5.0,814.07,71.05,Returning
+200905,2023-07-13,Health,Personal Care,West,Online,UPI,3,40.89,0.0,122.67,53.97,Returning
+200906,2023-12-10,Fashion,Women,East,Online,UPI,1,80.96,15.0,68.82,1.42,Returning
+200907,2022-12-31,Fashion,Men,South,Mobile App,Netbanking,2,108.07,15.0,183.72,42.06,New
+200908,2022-02-08,Health,Supplements,West,Retail,Netbanking,1,189.0,20.0,151.2,21.52,New
+200909,2022-05-11,Fashion,Men,North,Online,Card,1,43.54,25.0,32.66,2.19,New
+200910,2023-03-28,Fashion,Kids,North,Retail,Card,2,619.56,0.0,1239.12,265.0,Returning
+200911,2023-08-13,Home & Kitchen,Kitchenware,West,Online,Netbanking,1,25.73,25.0,19.3,0.19,Returning
+200912,2022-12-31,Fashion,Women,East,Online,Netbanking,1,29.95,0.0,29.95,4.17,New
+200913,2022-11-06,Sports,Fitness,South,Marketplace,Card,1,72.2,25.0,54.15,10.24,New
+200914,2022-08-30,Electronics,Laptops,West,Online,COD,1,93.26,0.0,93.26,10.72,New
+200915,2023-04-20,Home & Kitchen,Decor,North,Marketplace,Card,3,42.14,10.0,113.78,1.14,New
+200916,2022-08-09,Fashion,Kids,South,Online,Card,1,138.14,0.0,138.14,31.59,New
+200917,2022-03-31,Home & Kitchen,Furniture,North,Online,Card,1,104.82,5.0,99.58,14.18,VIP
+200918,2023-05-06,Electronics,Phones,East,Online,Card,2,405.21,20.0,648.34,74.66,Returning
+200919,2022-10-02,Sports,Fitness,South,Mobile App,Card,1,37.82,0.0,37.82,6.57,VIP
+200920,2022-06-15,Electronics,Audio,West,Online,Card,3,98.73,20.0,236.95,22.99,New
+200921,2023-03-14,Health,Personal Care,South,Marketplace,UPI,2,180.75,10.0,325.35,55.84,Returning
+200922,2022-01-04,Electronics,Laptops,South,Online,UPI,1,185.85,25.0,139.39,10.62,New
+200923,2022-12-19,Fashion,Men,East,Online,Card,2,43.93,10.0,79.07,11.12,New
+200924,2022-03-24,Fashion,Men,West,Retail,Card,1,152.52,5.0,144.89,34.79,Returning
+200925,2023-01-19,Home & Kitchen,Decor,North,Marketplace,COD,1,44.0,15.0,37.4,6.2,Returning
+200926,2023-08-21,Electronics,Audio,West,Marketplace,Netbanking,1,77.26,0.0,77.26,23.13,Returning
+200927,2023-03-25,Fashion,Kids,South,Mobile App,COD,1,483.89,10.0,435.5,52.58,Returning
+200928,2022-04-28,Fashion,Women,North,Marketplace,UPI,1,157.41,5.0,149.54,7.92,Returning
+200929,2022-07-06,Electronics,Accessories,East,Mobile App,Netbanking,1,190.03,20.0,152.02,4.85,New
+200930,2022-06-13,Electronics,Laptops,West,Online,Card,2,95.34,0.0,190.68,18.58,New
+200931,2022-09-18,Home & Kitchen,Decor,North,Mobile App,Card,2,68.55,0.0,137.1,26.76,Returning
+200932,2022-05-12,Fashion,Kids,North,Online,UPI,1,51.33,10.0,46.2,11.88,New
+200933,2023-04-11,Fashion,Men,West,Marketplace,Card,2,44.45,0.0,88.9,3.36,New
+200934,2023-10-19,Fashion,Men,East,Online,Card,2,115.49,0.0,230.98,41.91,Returning
+200935,2022-06-09,Sports,Outdoor,West,Mobile App,Netbanking,1,59.44,0.0,59.44,13.63,Returning
+200936,2023-10-19,Sports,Outdoor,South,Mobile App,UPI,1,105.9,0.0,105.9,23.37,Returning
+200937,2022-04-20,Home & Kitchen,Decor,East,Marketplace,Card,3,117.23,15.0,298.94,47.38,VIP
+200938,2023-06-16,Fashion,Men,North,Retail,Card,3,140.74,0.0,422.22,82.25,New
+200939,2022-05-14,Sports,Outdoor,West,Online,COD,3,177.55,25.0,399.49,18.18,Returning
+200940,2022-02-25,Fashion,Women,North,Online,COD,1,40.37,10.0,36.33,7.89,Returning
+200941,2023-01-20,Home & Kitchen,Decor,East,Mobile App,UPI,1,148.45,0.0,148.45,20.14,VIP
+200942,2023-01-29,Sports,Outdoor,South,Online,UPI,2,63.02,20.0,100.83,17.96,Returning
+200943,2022-10-05,Electronics,Accessories,East,Retail,COD,1,349.78,20.0,279.82,18.96,New
+200944,2022-08-12,Home & Kitchen,Decor,South,Online,COD,1,31.84,5.0,30.25,3.68,New
+200945,2023-07-11,Fashion,Women,North,Online,Card,3,65.89,5.0,187.79,1.88,Returning
+200946,2023-02-10,Fashion,Men,North,Online,COD,3,27.44,15.0,69.97,9.82,New
+200947,2023-05-07,Electronics,Phones,North,Marketplace,Card,1,63.67,25.0,47.75,7.96,Returning
+200948,2022-04-14,Fashion,Women,South,Retail,Card,1,87.95,5.0,83.55,24.4,Returning
+200949,2023-03-03,Electronics,Accessories,North,Retail,Card,1,101.85,5.0,96.76,17.22,Returning
+200950,2022-05-19,Electronics,Laptops,West,Marketplace,COD,1,185.22,20.0,148.18,1.48,New
+200951,2022-09-27,Sports,Fitness,North,Mobile App,Card,3,214.68,5.0,611.84,114.65,New
+200952,2023-12-14,Electronics,Phones,West,Online,Card,2,87.99,25.0,131.98,10.73,New
+200953,2022-11-02,Home & Kitchen,Decor,East,Marketplace,Netbanking,2,173.87,20.0,278.19,37.2,New
+200954,2022-08-14,Electronics,Accessories,North,Online,Card,1,60.19,5.0,57.18,12.17,Returning
+200955,2022-07-08,Home & Kitchen,Furniture,South,Marketplace,Card,2,72.48,25.0,108.72,12.86,New
+200956,2022-06-30,Fashion,Men,West,Marketplace,Netbanking,2,166.71,10.0,300.08,31.63,New
+200957,2023-02-20,Electronics,Accessories,North,Online,UPI,1,160.29,20.0,128.23,8.81,Returning
+200958,2022-07-03,Fashion,Women,South,Online,Card,2,58.11,25.0,87.16,7.46,Returning
+200959,2023-04-03,Electronics,Laptops,East,Retail,Card,1,78.46,0.0,78.46,12.41,Returning
+200960,2022-10-30,Electronics,Laptops,East,Online,Card,1,165.74,10.0,149.17,15.67,New
+200961,2022-04-27,Fashion,Kids,West,Online,UPI,1,187.14,25.0,140.35,9.37,New
+200962,2022-03-29,Home & Kitchen,Furniture,South,Online,Card,2,56.36,10.0,101.45,24.46,Returning
+200963,2023-02-14,Home & Kitchen,Furniture,West,Online,UPI,1,236.1,15.0,200.69,36.14,New
+200964,2023-01-09,Home & Kitchen,Kitchenware,West,Mobile App,Card,3,68.69,0.0,206.07,53.27,Returning
+200965,2023-09-20,Health,Personal Care,East,Marketplace,Card,2,43.52,0.0,87.04,25.24,New
+200966,2022-08-17,Sports,Fitness,North,Online,UPI,1,368.7,25.0,276.52,43.48,VIP
+200967,2023-06-07,Sports,Outdoor,East,Mobile App,Card,1,175.58,0.0,175.58,45.79,Returning
+200968,2022-08-21,Health,Personal Care,West,Online,Card,3,55.37,25.0,124.58,9.56,New
+200969,2022-08-20,Fashion,Kids,West,Mobile App,UPI,3,69.37,10.0,187.3,23.05,VIP
+200970,2023-05-13,Fashion,Kids,West,Marketplace,Card,3,70.7,25.0,159.08,5.92,New
+200971,2022-03-15,Health,Supplements,East,Online,Card,3,100.92,15.0,257.35,6.07,New
+200972,2023-12-20,Electronics,Audio,West,Retail,Card,3,81.35,0.0,244.05,39.82,Returning
+200973,2022-02-26,Fashion,Kids,North,Online,Card,2,57.68,15.0,98.06,5.16,New
+200974,2022-01-14,Sports,Outdoor,South,Marketplace,Card,2,44.21,0.0,88.42,11.41,Returning
+200975,2022-02-02,Home & Kitchen,Furniture,East,Online,Card,1,88.97,5.0,84.52,17.62,Returning
+200976,2022-02-09,Fashion,Kids,North,Mobile App,COD,1,26.98,20.0,21.58,4.72,New
+200977,2022-12-08,Electronics,Accessories,West,Retail,COD,1,518.97,25.0,389.23,85.47,Returning
+200978,2022-03-17,Fashion,Women,North,Online,COD,2,112.84,10.0,203.11,47.81,New
+200979,2022-11-27,Fashion,Kids,North,Online,UPI,1,76.34,10.0,68.71,24.59,Returning
+200980,2022-11-23,Home & Kitchen,Decor,North,Online,Card,1,67.3,0.0,67.3,19.26,New
+200981,2022-05-18,Fashion,Women,North,Retail,Card,3,37.76,0.0,113.28,23.35,Returning
+200982,2023-03-10,Home & Kitchen,Kitchenware,South,Online,Card,1,107.04,10.0,96.34,0.96,Returning
+200983,2022-11-15,Electronics,Accessories,South,Online,UPI,3,287.37,5.0,819.0,183.85,New
+200984,2023-11-12,Sports,Outdoor,West,Online,Netbanking,1,89.94,20.0,71.95,4.03,Returning
+200985,2022-10-16,Home & Kitchen,Furniture,North,Mobile App,UPI,1,161.61,0.0,161.61,18.46,Returning
+200986,2022-08-05,Health,Personal Care,East,Online,Card,1,346.33,20.0,277.06,50.59,Returning
+200987,2022-09-20,Home & Kitchen,Decor,East,Online,COD,1,180.95,20.0,144.76,1.45,New
+200988,2023-03-10,Electronics,Audio,North,Online,Card,1,217.19,5.0,206.33,50.47,Returning
+200989,2023-09-01,Sports,Fitness,South,Marketplace,COD,1,106.81,25.0,80.11,3.53,New
+200990,2022-01-16,Sports,Outdoor,West,Marketplace,Card,1,36.36,20.0,29.09,1.49,New
+200991,2023-10-09,Fashion,Men,South,Online,Card,2,295.54,10.0,531.97,92.03,New
+200992,2022-10-15,Fashion,Kids,East,Retail,Netbanking,1,135.08,0.0,135.08,31.47,New
+200993,2022-10-11,Fashion,Women,South,Online,UPI,1,113.5,0.0,113.5,16.49,Returning
+200994,2023-01-12,Health,Supplements,East,Mobile App,Card,1,131.12,0.0,131.12,26.64,Returning
+200995,2022-03-26,Sports,Fitness,South,Mobile App,Card,1,429.54,5.0,408.06,71.74,Returning
+200996,2022-08-27,Electronics,Accessories,East,Marketplace,Card,3,68.47,20.0,164.33,32.88,Returning
+200997,2022-09-07,Fashion,Men,West,Mobile App,Netbanking,1,199.19,10.0,179.27,21.08,New
+200998,2022-01-19,Electronics,Audio,North,Retail,Netbanking,1,130.19,20.0,104.15,14.95,New
+200999,2023-10-28,Electronics,Audio,East,Mobile App,Card,1,77.51,15.0,65.88,9.27,Returning
+201000,2023-12-11,Electronics,Laptops,West,Mobile App,Card,1,159.88,0.0,159.88,52.45,New
+201001,2023-02-27,Electronics,Phones,South,Online,Card,1,74.42,10.0,66.98,14.36,Returning
+201002,2022-12-06,Electronics,Phones,South,Mobile App,UPI,1,284.92,0.0,284.92,22.67,New
+201003,2023-12-04,Electronics,Phones,North,Online,Card,2,112.44,5.0,213.64,36.15,VIP
+201004,2023-07-03,Sports,Fitness,North,Retail,Card,1,73.58,5.0,69.9,13.25,New
+201005,2023-01-11,Fashion,Men,North,Mobile App,Card,3,46.39,25.0,104.38,1.15,New
+201006,2022-07-31,Electronics,Laptops,West,Online,Card,1,69.49,20.0,55.59,4.11,New
+201007,2022-08-17,Home & Kitchen,Kitchenware,East,Retail,Card,1,448.81,15.0,381.49,26.86,New
+201008,2023-03-05,Fashion,Kids,West,Online,Card,1,44.49,5.0,42.27,11.21,Returning
+201009,2022-02-26,Home & Kitchen,Kitchenware,West,Online,Card,1,43.3,0.0,43.3,9.91,New
+201010,2022-04-15,Fashion,Kids,South,Mobile App,Card,1,90.18,25.0,67.64,6.95,Returning
+201011,2022-11-04,Electronics,Laptops,West,Online,Card,1,74.34,25.0,55.76,0.93,VIP
+201012,2022-10-20,Sports,Fitness,North,Retail,Card,2,63.71,5.0,121.05,35.36,Returning
+201013,2023-09-02,Fashion,Kids,South,Retail,Card,2,246.6,25.0,369.9,38.11,Returning
+201014,2023-12-03,Electronics,Laptops,North,Online,Netbanking,1,247.08,25.0,185.31,38.3,Returning
+201015,2022-08-19,Fashion,Men,South,Online,Netbanking,1,441.0,25.0,330.75,43.06,Returning
+201016,2023-09-18,Home & Kitchen,Kitchenware,South,Marketplace,UPI,3,72.46,0.0,217.38,37.93,Returning
+201017,2023-04-02,Home & Kitchen,Kitchenware,West,Mobile App,UPI,1,88.59,20.0,70.87,2.4,Returning
+201018,2023-10-18,Sports,Fitness,South,Marketplace,Netbanking,3,99.12,0.0,297.36,76.0,New
+201019,2023-10-31,Home & Kitchen,Furniture,North,Retail,Netbanking,1,123.56,25.0,92.67,14.48,New
+201020,2022-08-05,Fashion,Women,West,Online,Card,1,116.57,20.0,93.26,0.93,Returning
+201021,2022-04-23,Electronics,Audio,North,Retail,Card,1,186.94,0.0,186.94,60.47,VIP
+201022,2023-07-12,Electronics,Audio,East,Marketplace,Card,1,143.08,15.0,121.62,18.42,New
+201023,2022-12-17,Electronics,Phones,East,Retail,COD,1,101.1,0.0,101.1,35.16,Returning
+201024,2023-05-12,Health,Personal Care,North,Online,Card,3,124.41,15.0,317.25,54.9,New
+201025,2022-06-25,Electronics,Accessories,North,Online,Card,1,145.13,5.0,137.87,23.51,New
+201026,2023-09-10,Home & Kitchen,Kitchenware,South,Mobile App,Card,1,68.65,15.0,58.35,16.96,Returning
+201027,2022-05-30,Fashion,Women,North,Online,UPI,1,162.68,0.0,162.68,45.58,New
+201028,2023-07-28,Electronics,Laptops,East,Retail,Card,2,67.36,25.0,101.04,4.71,New
+201029,2022-09-15,Electronics,Accessories,North,Retail,Card,1,111.98,15.0,95.18,24.22,New
+201030,2022-10-05,Fashion,Kids,West,Marketplace,UPI,1,197.05,0.0,197.05,34.14,Returning
+201031,2022-08-27,Home & Kitchen,Decor,East,Online,Netbanking,1,130.77,0.0,130.77,25.77,Returning
+201032,2023-10-03,Sports,Fitness,North,Mobile App,Card,1,38.07,0.0,38.07,6.65,Returning
+201033,2023-07-11,Fashion,Kids,West,Marketplace,UPI,3,161.18,5.0,459.36,102.91,New
+201034,2022-05-09,Health,Supplements,East,Online,Card,1,149.91,20.0,119.93,1.2,VIP
+201035,2022-12-15,Sports,Fitness,East,Mobile App,UPI,1,87.98,15.0,74.78,9.08,Returning
+201036,2023-10-22,Sports,Fitness,North,Online,UPI,2,48.48,25.0,72.72,4.86,Returning
+201037,2023-01-07,Fashion,Women,North,Retail,Card,1,40.01,0.0,40.01,5.2,New
+201038,2022-08-17,Home & Kitchen,Kitchenware,West,Marketplace,UPI,1,53.24,20.0,42.59,5.39,New
+201039,2022-01-02,Health,Supplements,East,Online,Card,1,127.32,5.0,120.95,24.58,Returning
+201040,2023-03-15,Fashion,Kids,North,Online,COD,2,34.15,0.0,68.3,12.84,New
+201041,2022-06-13,Fashion,Men,South,Mobile App,Netbanking,3,29.76,20.0,71.42,13.75,New
+201042,2022-11-12,Fashion,Women,West,Online,Card,1,141.6,15.0,120.36,31.43,Returning
+201043,2022-01-10,Fashion,Kids,North,Online,UPI,2,43.33,25.0,65.0,3.74,New
+201044,2023-11-23,Health,Personal Care,North,Online,COD,2,72.56,20.0,116.1,25.85,New
+201045,2022-10-08,Health,Personal Care,North,Online,Netbanking,1,35.25,0.0,35.25,4.59,Returning
+201046,2022-09-06,Fashion,Kids,West,Marketplace,UPI,1,354.51,10.0,319.06,74.73,VIP
+201047,2022-06-27,Home & Kitchen,Decor,West,Online,UPI,1,62.22,5.0,59.11,1.62,Returning
+201048,2022-10-29,Home & Kitchen,Kitchenware,North,Retail,Card,1,102.25,0.0,102.25,21.25,New
+201049,2023-11-13,Health,Personal Care,West,Mobile App,Card,1,250.8,5.0,238.26,51.09,Returning
+201050,2022-03-16,Fashion,Men,East,Online,COD,3,51.36,20.0,123.26,19.35,VIP
+201051,2022-04-13,Electronics,Phones,East,Online,Netbanking,1,111.79,15.0,95.02,28.18,Returning
+201052,2022-02-25,Fashion,Men,South,Retail,Card,2,44.02,15.0,74.83,0.75,VIP
+201053,2023-09-03,Fashion,Kids,West,Online,Netbanking,3,62.76,10.0,169.45,48.48,VIP
+201054,2022-09-14,Fashion,Women,South,Online,Card,3,72.63,0.0,217.89,41.46,Returning
+201055,2023-12-14,Fashion,Women,South,Online,COD,1,39.93,20.0,31.94,2.03,New
+201056,2023-11-03,Home & Kitchen,Decor,South,Mobile App,UPI,1,32.34,0.0,32.34,3.78,Returning
+201057,2023-10-04,Fashion,Women,North,Online,Card,1,349.81,0.0,349.81,102.77,New
+201058,2023-04-19,Sports,Outdoor,South,Mobile App,Card,1,33.21,25.0,24.91,0.6,New
+201059,2022-07-01,Fashion,Men,West,Retail,UPI,2,71.53,20.0,114.45,9.76,New
+201060,2022-01-05,Electronics,Laptops,West,Online,COD,1,121.31,5.0,115.24,26.47,New
+201061,2023-06-26,Electronics,Accessories,East,Marketplace,UPI,1,217.99,0.0,217.99,43.86,New
+201062,2022-04-15,Fashion,Women,South,Online,UPI,2,205.91,20.0,329.46,23.59,New
+201063,2023-11-09,Sports,Fitness,West,Online,UPI,2,167.34,10.0,301.21,20.6,Returning
+201064,2023-04-11,Home & Kitchen,Kitchenware,West,Online,UPI,1,88.69,15.0,75.39,9.9,New
+201065,2022-03-27,Health,Personal Care,West,Retail,Netbanking,1,505.49,0.0,505.49,48.61,Returning
+201066,2023-09-13,Electronics,Laptops,South,Mobile App,Netbanking,3,102.6,5.0,292.41,5.87,VIP
+201067,2023-06-23,Electronics,Audio,South,Online,Netbanking,1,172.78,5.0,164.14,23.17,Returning
+201068,2023-08-06,Health,Personal Care,South,Online,Netbanking,1,198.34,10.0,178.51,48.77,VIP
+201069,2022-07-25,Sports,Outdoor,East,Online,Card,1,68.65,0.0,68.65,19.22,Returning
+201070,2022-12-18,Fashion,Women,South,Online,Card,1,194.86,25.0,146.15,9.3,New
+201071,2022-08-07,Sports,Outdoor,North,Online,Card,1,254.89,5.0,242.15,75.82,New
+201072,2022-01-09,Sports,Fitness,South,Online,Card,3,138.73,10.0,374.57,9.59,New
+201073,2022-03-12,Health,Supplements,East,Mobile App,Card,3,233.45,5.0,665.33,103.89,New
+201074,2023-02-28,Sports,Fitness,North,Marketplace,Card,1,65.42,5.0,62.15,9.45,New
+201075,2023-10-23,Fashion,Kids,South,Online,Card,3,49.11,25.0,110.5,1.1,New
+201076,2022-02-16,Electronics,Phones,West,Retail,Card,2,173.17,0.0,346.34,116.16,Returning
+201077,2023-12-10,Health,Supplements,East,Retail,Netbanking,2,128.36,20.0,205.38,32.72,Returning
+201078,2023-08-13,Fashion,Kids,South,Retail,Card,1,75.26,15.0,63.97,14.11,New
+201079,2023-07-27,Fashion,Men,West,Online,Card,1,458.83,0.0,458.83,114.35,VIP
+201080,2023-05-08,Electronics,Phones,North,Online,Netbanking,1,184.17,0.0,184.17,52.63,New
+201081,2022-02-16,Fashion,Men,West,Retail,Card,1,160.4,5.0,152.38,17.52,New
+201082,2022-08-22,Fashion,Kids,East,Retail,Card,1,237.55,0.0,237.55,30.78,Returning
+201083,2022-01-10,Fashion,Men,West,Marketplace,Netbanking,1,73.69,0.0,73.69,20.99,Returning
+201084,2023-01-06,Health,Supplements,East,Marketplace,UPI,3,88.3,15.0,225.16,19.95,Returning
+201085,2023-02-21,Electronics,Accessories,West,Mobile App,Card,1,344.51,20.0,275.61,38.39,Returning
+201086,2022-03-09,Electronics,Phones,South,Online,Card,2,61.86,25.0,92.79,10.15,Returning
+201087,2022-11-15,Health,Personal Care,South,Mobile App,Card,2,259.09,10.0,466.36,49.55,VIP
+201088,2023-03-21,Fashion,Kids,West,Online,Card,1,395.08,0.0,395.08,135.26,Returning
+201089,2022-07-23,Home & Kitchen,Kitchenware,East,Marketplace,COD,3,96.98,15.0,247.3,22.04,Returning
+201090,2022-10-12,Fashion,Men,West,Mobile App,Card,3,310.63,5.0,885.3,238.43,New
+201091,2023-09-24,Health,Personal Care,East,Mobile App,Card,1,50.85,5.0,48.31,8.7,New
+201092,2022-11-15,Health,Supplements,South,Online,UPI,1,123.23,25.0,92.42,7.36,Returning
+201093,2022-09-24,Fashion,Kids,East,Retail,UPI,1,26.74,15.0,22.73,0.23,Returning
+201094,2022-07-30,Health,Supplements,North,Mobile App,UPI,1,25.63,25.0,19.22,0.19,Returning
+201095,2023-10-02,Sports,Fitness,South,Mobile App,Card,1,79.49,0.0,79.49,13.67,New
+201096,2022-02-23,Home & Kitchen,Decor,North,Online,Card,1,79.95,20.0,63.96,5.36,Returning
+201097,2023-12-03,Health,Supplements,West,Online,Card,1,315.88,10.0,284.29,46.88,New
+201098,2022-01-17,Electronics,Audio,North,Mobile App,Netbanking,1,70.55,10.0,63.49,15.24,Returning
+201099,2022-04-07,Health,Supplements,West,Mobile App,Card,2,95.48,20.0,152.77,27.9,Returning
+201100,2023-05-25,Electronics,Laptops,South,Online,Card,1,155.08,0.0,155.08,30.49,New
+201101,2022-06-08,Fashion,Women,East,Online,UPI,2,79.85,5.0,151.71,23.57,New
+201102,2023-04-16,Sports,Fitness,South,Online,Netbanking,1,54.61,10.0,49.15,7.84,Returning
+201103,2022-02-27,Fashion,Kids,South,Mobile App,COD,3,124.0,0.0,372.0,72.52,Returning
+201104,2022-08-02,Home & Kitchen,Decor,East,Online,COD,1,42.45,15.0,36.08,7.11,Returning
+201105,2023-09-25,Fashion,Kids,West,Marketplace,Card,2,159.21,10.0,286.58,101.73,Returning
+201106,2022-10-20,Sports,Outdoor,East,Mobile App,Netbanking,3,222.89,5.0,635.24,82.54,Returning
+201107,2022-07-29,Fashion,Kids,South,Retail,UPI,3,174.03,0.0,522.09,87.3,Returning
+201108,2022-12-20,Health,Supplements,North,Online,COD,3,170.18,5.0,485.01,41.82,Returning
+201109,2022-05-01,Home & Kitchen,Kitchenware,South,Online,Card,1,47.44,0.0,47.44,2.91,Returning
+201110,2022-06-09,Electronics,Accessories,South,Retail,Card,1,77.81,5.0,73.92,17.63,New
+201111,2023-12-13,Electronics,Accessories,West,Retail,Card,1,267.19,5.0,253.83,35.17,VIP
+201112,2023-02-10,Fashion,Women,South,Online,Card,2,41.69,20.0,66.7,12.56,New
+201113,2022-01-28,Fashion,Women,North,Retail,COD,3,148.71,0.0,446.13,61.7,Returning
+201114,2022-11-15,Electronics,Phones,North,Online,Netbanking,2,110.63,25.0,165.94,1.66,VIP
+201115,2023-02-11,Fashion,Women,West,Online,UPI,1,40.09,20.0,32.07,5.72,Returning
+201116,2023-12-18,Fashion,Men,North,Mobile App,COD,1,62.99,5.0,59.84,11.89,Returning
+201117,2022-05-02,Health,Supplements,West,Mobile App,COD,1,376.82,25.0,282.62,13.01,VIP
+201118,2022-06-29,Health,Personal Care,South,Retail,Card,1,26.38,25.0,19.79,2.87,Returning
+201119,2022-01-18,Health,Supplements,West,Marketplace,Card,1,31.54,0.0,31.54,9.39,New
+201120,2022-01-14,Health,Personal Care,East,Mobile App,Netbanking,1,85.37,25.0,64.03,5.57,New
+201121,2022-02-26,Fashion,Kids,East,Mobile App,Netbanking,3,61.47,15.0,156.75,15.34,Returning
+201122,2023-10-05,Electronics,Phones,South,Online,Card,1,65.18,20.0,52.14,6.63,Returning
+201123,2023-12-08,Health,Personal Care,West,Marketplace,Card,1,121.72,0.0,121.72,18.89,Returning
+201124,2023-05-03,Health,Supplements,East,Online,Card,2,162.74,15.0,276.66,40.45,Returning
+201125,2023-11-30,Sports,Fitness,West,Online,Netbanking,2,159.92,5.0,303.85,106.82,VIP
+201126,2023-06-24,Home & Kitchen,Decor,West,Online,Card,1,82.64,5.0,78.51,24.1,Returning
+201127,2022-12-16,Health,Personal Care,North,Online,Card,1,145.19,15.0,123.41,28.58,New
+201128,2023-10-06,Electronics,Phones,North,Retail,COD,2,118.46,15.0,201.38,42.87,New
+201129,2022-08-16,Electronics,Audio,West,Mobile App,Card,1,157.9,0.0,157.9,24.8,Returning
+201130,2023-04-01,Fashion,Men,West,Retail,UPI,1,125.0,20.0,100.0,17.38,Returning
+201131,2022-06-06,Fashion,Women,West,Retail,UPI,1,75.81,20.0,60.65,6.91,Returning
+201132,2022-10-02,Health,Personal Care,North,Online,COD,1,51.52,0.0,51.52,5.28,Returning
+201133,2023-09-23,Fashion,Kids,South,Online,Card,1,69.89,15.0,59.41,4.61,Returning
+201134,2022-11-10,Electronics,Accessories,South,Online,Card,3,182.76,5.0,520.87,172.66,Returning
+201135,2023-04-20,Home & Kitchen,Kitchenware,North,Retail,Card,1,77.51,0.0,77.51,21.78,Returning
+201136,2023-03-05,Home & Kitchen,Decor,North,Retail,UPI,1,327.49,0.0,327.49,59.18,Returning
+201137,2022-10-24,Electronics,Accessories,West,Online,Card,1,260.22,0.0,260.22,54.04,Returning
+201138,2022-07-19,Electronics,Laptops,East,Online,COD,1,138.98,15.0,118.13,1.34,New
+201139,2022-04-05,Fashion,Women,West,Mobile App,Card,3,299.22,5.0,852.78,123.83,Returning
+201140,2023-04-11,Home & Kitchen,Decor,North,Marketplace,Card,2,58.22,15.0,98.97,18.87,Returning
+201141,2023-04-15,Home & Kitchen,Decor,South,Online,Netbanking,1,48.06,10.0,43.25,6.79,Returning
+201142,2022-09-16,Home & Kitchen,Kitchenware,South,Mobile App,UPI,1,121.03,10.0,108.93,7.09,Returning
+201143,2022-09-16,Fashion,Kids,North,Online,Card,3,163.91,25.0,368.8,3.69,New
+201144,2023-06-09,Sports,Fitness,South,Marketplace,Netbanking,3,119.77,15.0,305.41,31.41,Returning
+201145,2023-10-27,Sports,Fitness,North,Mobile App,COD,1,61.44,0.0,61.44,17.5,New
+201146,2023-07-06,Sports,Outdoor,West,Mobile App,Card,2,82.95,15.0,141.02,27.07,Returning
+201147,2022-12-30,Fashion,Women,North,Marketplace,UPI,3,162.83,0.0,488.49,70.66,Returning
+201148,2023-10-14,Sports,Fitness,North,Online,Card,2,44.24,0.0,88.48,18.62,Returning
+201149,2023-05-12,Electronics,Audio,West,Retail,Card,2,123.56,0.0,247.12,49.08,Returning
+201150,2022-06-10,Health,Supplements,South,Marketplace,COD,3,40.75,25.0,91.69,12.16,Returning
+201151,2022-12-30,Health,Supplements,North,Online,Netbanking,1,151.4,10.0,136.26,1.36,Returning
+201152,2022-04-22,Fashion,Women,East,Online,Card,1,289.09,25.0,216.82,23.17,New
+201153,2022-12-25,Sports,Fitness,West,Online,Netbanking,2,76.01,5.0,144.42,31.24,Returning
+201154,2022-12-23,Home & Kitchen,Furniture,South,Online,COD,3,40.06,10.0,108.16,10.73,New
+201155,2022-03-14,Sports,Outdoor,North,Retail,Card,1,521.49,15.0,443.27,33.69,New
+201156,2023-09-11,Home & Kitchen,Decor,West,Mobile App,Card,1,126.55,25.0,94.91,8.11,New
+201157,2023-09-18,Sports,Outdoor,South,Marketplace,Card,2,28.09,25.0,42.13,9.61,New
+201158,2022-06-29,Home & Kitchen,Furniture,South,Online,Card,1,196.17,10.0,176.55,26.6,New
+201159,2023-09-07,Home & Kitchen,Furniture,South,Mobile App,Netbanking,1,134.47,20.0,107.58,18.81,New
+201160,2023-04-27,Sports,Outdoor,East,Online,Card,1,142.81,10.0,128.53,9.58,VIP
+201161,2022-08-09,Sports,Outdoor,South,Online,Card,1,59.01,0.0,59.01,12.29,New
+201162,2022-11-19,Health,Supplements,East,Mobile App,Card,3,53.39,0.0,160.17,30.8,New
+201163,2023-11-26,Electronics,Accessories,East,Retail,UPI,3,73.24,0.0,219.72,18.13,New
+201164,2023-02-08,Fashion,Women,West,Online,Netbanking,1,50.1,0.0,50.1,16.23,Returning
+201165,2023-10-15,Health,Supplements,South,Online,COD,1,82.89,25.0,62.17,14.84,Returning
+201166,2022-09-06,Fashion,Men,North,Retail,Card,1,119.99,15.0,101.99,3.86,New
+201167,2023-03-07,Fashion,Kids,West,Online,COD,2,183.85,0.0,367.7,126.08,Returning
+201168,2023-02-09,Health,Personal Care,West,Online,COD,2,101.49,25.0,152.23,1.52,Returning
+201169,2022-02-02,Health,Personal Care,East,Mobile App,Card,3,101.85,25.0,229.16,43.65,New
+201170,2023-05-19,Home & Kitchen,Kitchenware,North,Mobile App,UPI,1,49.28,15.0,41.89,7.12,Returning
+201171,2023-06-29,Health,Personal Care,South,Retail,Card,1,156.0,5.0,148.2,9.22,Returning
+201172,2022-06-18,Sports,Outdoor,East,Online,Card,3,85.92,15.0,219.1,18.32,New
+201173,2023-08-21,Fashion,Women,South,Online,COD,1,57.56,5.0,54.68,1.64,Returning
+201174,2023-05-13,Health,Personal Care,North,Online,Card,3,46.16,0.0,138.48,22.36,New
+201175,2022-03-29,Home & Kitchen,Kitchenware,South,Online,Netbanking,1,163.21,25.0,122.41,21.88,Returning
+201176,2022-12-08,Fashion,Men,East,Mobile App,Card,3,142.67,15.0,363.81,51.3,Returning
+201177,2022-04-24,Home & Kitchen,Kitchenware,West,Mobile App,COD,3,142.91,5.0,407.29,20.17,Returning
+201178,2022-03-28,Health,Supplements,East,Online,Card,2,50.07,15.0,85.12,7.55,Returning
+201179,2022-07-11,Fashion,Men,West,Online,Card,2,132.69,15.0,225.57,10.55,New
+201180,2022-08-18,Fashion,Kids,South,Mobile App,Card,3,127.0,25.0,285.75,54.47,New
+201181,2023-11-22,Home & Kitchen,Decor,East,Online,Netbanking,3,52.83,20.0,126.79,8.49,Returning
+201182,2023-02-05,Home & Kitchen,Decor,East,Mobile App,Card,3,241.61,10.0,652.35,142.08,Returning
+201183,2022-11-09,Electronics,Phones,East,Mobile App,UPI,1,179.04,25.0,134.28,16.14,New
+201184,2023-05-07,Home & Kitchen,Furniture,North,Online,COD,2,184.54,20.0,295.26,2.95,Returning
+201185,2023-12-23,Fashion,Kids,North,Retail,Card,1,94.98,5.0,90.23,26.13,Returning
+201186,2022-08-10,Electronics,Phones,South,Retail,UPI,1,65.35,15.0,55.55,0.56,VIP
+201187,2023-07-03,Electronics,Accessories,North,Online,Netbanking,1,157.54,5.0,149.66,27.49,New
+201188,2023-01-24,Electronics,Laptops,East,Online,UPI,2,74.19,10.0,133.54,21.7,New
+201189,2022-08-21,Fashion,Men,West,Marketplace,COD,1,124.31,0.0,124.31,36.15,New
+201190,2023-05-01,Electronics,Accessories,South,Mobile App,Card,1,99.85,0.0,99.85,25.92,New
+201191,2023-12-22,Health,Supplements,North,Mobile App,UPI,1,91.82,0.0,91.82,11.23,New
+201192,2023-02-22,Fashion,Kids,East,Marketplace,Netbanking,1,195.22,25.0,146.41,14.63,Returning
+201193,2022-04-25,Electronics,Accessories,East,Marketplace,UPI,1,477.52,0.0,477.52,63.13,New
+201194,2023-11-10,Home & Kitchen,Decor,West,Retail,Card,1,187.72,25.0,140.79,7.03,Returning
+201195,2022-03-29,Fashion,Men,East,Online,Card,1,145.36,15.0,123.56,7.81,VIP
+201196,2023-11-07,Health,Supplements,East,Online,UPI,3,108.82,0.0,326.46,46.59,Returning
+201197,2023-11-10,Fashion,Women,North,Online,Card,1,68.9,10.0,62.01,4.94,Returning
+201198,2023-04-06,Health,Personal Care,South,Online,Card,1,45.06,20.0,36.05,3.76,Returning
+201199,2022-02-21,Electronics,Audio,West,Retail,Card,3,216.03,10.0,583.28,96.77,Returning
+201200,2022-02-20,Fashion,Women,South,Online,UPI,1,211.17,20.0,168.94,9.26,VIP
+201201,2023-05-31,Fashion,Kids,West,Retail,Card,1,142.42,0.0,142.42,21.7,New
+201202,2022-08-01,Electronics,Audio,East,Mobile App,Card,1,156.89,0.0,156.89,52.66,New
+201203,2023-02-11,Fashion,Men,East,Marketplace,Card,1,113.21,0.0,113.21,24.63,New
+201204,2023-06-28,Sports,Outdoor,South,Retail,Card,3,277.16,25.0,623.61,28.92,New
+201205,2023-07-15,Health,Personal Care,South,Online,Card,2,75.58,10.0,136.04,33.07,New
+201206,2023-11-14,Electronics,Phones,West,Mobile App,Card,3,190.58,10.0,514.57,136.8,Returning
+201207,2023-05-16,Fashion,Women,West,Online,Card,1,276.37,20.0,221.1,2.21,Returning
+201208,2023-11-01,Fashion,Men,West,Online,Card,1,599.6,25.0,449.7,58.42,New
+201209,2023-03-04,Fashion,Kids,East,Online,Netbanking,1,185.17,25.0,138.88,18.14,Returning
+201210,2023-05-27,Home & Kitchen,Furniture,West,Online,UPI,2,68.45,5.0,130.06,17.27,Returning
+201211,2023-11-15,Health,Personal Care,North,Online,Netbanking,1,330.22,0.0,330.22,50.84,Returning
+201212,2023-06-04,Health,Personal Care,East,Retail,COD,3,43.82,20.0,105.17,10.47,Returning
+201213,2022-11-25,Fashion,Women,West,Online,Card,1,133.06,15.0,113.1,9.39,New
+201214,2022-02-09,Fashion,Women,South,Retail,Netbanking,2,51.57,25.0,77.36,9.38,Returning
+201215,2022-12-24,Home & Kitchen,Kitchenware,South,Mobile App,UPI,1,127.54,10.0,114.79,9.67,Returning
+201216,2023-11-04,Health,Supplements,East,Online,Netbanking,2,118.32,20.0,189.31,1.89,New
+201217,2022-08-09,Health,Personal Care,North,Online,Netbanking,1,70.93,0.0,70.93,13.94,New
+201218,2022-07-21,Home & Kitchen,Furniture,South,Mobile App,COD,1,108.84,5.0,103.4,6.5,VIP
+201219,2022-07-31,Electronics,Audio,South,Mobile App,Netbanking,2,170.03,0.0,340.06,70.87,New
+201220,2022-01-19,Fashion,Men,East,Online,UPI,1,88.02,0.0,88.02,11.4,Returning
+201221,2023-06-19,Home & Kitchen,Kitchenware,East,Online,Card,1,76.32,0.0,76.32,12.71,New
+201222,2023-07-21,Fashion,Kids,East,Mobile App,Card,1,185.54,5.0,176.26,39.24,New
+201223,2022-12-18,Health,Supplements,South,Mobile App,UPI,1,184.19,5.0,174.98,54.58,New
+201224,2023-07-22,Home & Kitchen,Decor,North,Online,COD,1,334.85,10.0,301.37,67.0,New
+201225,2023-06-06,Electronics,Laptops,South,Mobile App,Netbanking,3,194.4,5.0,554.04,63.13,New
+201226,2023-03-07,Fashion,Women,West,Online,COD,1,148.8,0.0,148.8,23.9,New
+201227,2022-09-07,Fashion,Women,North,Marketplace,Netbanking,1,134.24,5.0,127.53,39.69,Returning
+201228,2022-07-25,Sports,Outdoor,West,Online,COD,3,30.25,0.0,90.75,9.77,VIP
+201229,2022-09-16,Fashion,Women,North,Retail,Card,2,108.31,20.0,173.3,1.73,New
+201230,2022-06-12,Electronics,Laptops,South,Retail,Card,1,238.96,0.0,238.96,10.36,Returning
+201231,2023-10-22,Electronics,Audio,East,Mobile App,Card,2,323.09,10.0,581.56,108.92,Returning
+201232,2022-03-28,Sports,Fitness,East,Online,Card,1,79.82,0.0,79.82,15.45,Returning
+201233,2022-05-07,Electronics,Audio,West,Online,Card,1,84.79,20.0,67.83,10.04,Returning
+201234,2023-02-14,Sports,Fitness,West,Online,Card,1,175.57,15.0,149.23,31.57,New
+201235,2022-01-26,Sports,Outdoor,West,Online,UPI,1,134.15,5.0,127.44,21.15,Returning
+201236,2023-12-02,Home & Kitchen,Decor,South,Online,UPI,1,67.99,0.0,67.99,16.52,Returning
+201237,2023-03-27,Electronics,Audio,West,Online,Card,1,183.23,20.0,146.58,23.94,Returning
+201238,2023-03-12,Fashion,Women,East,Retail,Netbanking,1,63.34,15.0,53.84,6.34,Returning
+201239,2022-01-09,Electronics,Laptops,West,Online,Card,1,68.21,20.0,54.57,2.7,New
+201240,2022-12-12,Fashion,Women,East,Retail,Card,1,38.0,15.0,32.3,4.97,New
+201241,2023-01-22,Electronics,Laptops,North,Marketplace,COD,1,121.16,0.0,121.16,31.01,Returning
+201242,2022-08-18,Fashion,Men,West,Online,Card,1,39.44,0.0,39.44,9.02,New
+201243,2023-09-06,Fashion,Men,West,Marketplace,Card,1,332.21,25.0,249.16,22.54,VIP
+201244,2023-07-21,Health,Personal Care,South,Mobile App,Card,1,205.61,25.0,154.21,1.54,Returning
+201245,2022-04-05,Health,Personal Care,South,Retail,Card,2,697.43,20.0,1115.89,108.67,New
+201246,2023-04-14,Fashion,Women,East,Mobile App,COD,3,93.27,0.0,279.81,36.09,Returning
+201247,2023-05-25,Fashion,Women,East,Online,UPI,3,103.14,0.0,309.42,30.92,Returning
+201248,2022-09-12,Health,Personal Care,East,Marketplace,Card,2,153.98,0.0,307.96,55.06,Returning
+201249,2023-02-02,Electronics,Audio,West,Retail,Card,1,96.32,25.0,72.24,9.32,Returning
+201250,2022-10-15,Electronics,Laptops,South,Mobile App,Netbanking,1,106.3,10.0,95.67,5.42,Returning
+201251,2023-06-04,Sports,Fitness,South,Online,UPI,1,67.92,15.0,57.73,6.59,New
+201252,2023-08-14,Fashion,Women,North,Online,Card,2,58.59,20.0,93.74,0.94,New
+201253,2022-03-06,Fashion,Women,East,Online,UPI,3,514.32,0.0,1542.96,91.34,New
+201254,2023-10-18,Fashion,Men,West,Online,Card,2,148.19,10.0,266.74,31.09,New
+201255,2023-08-21,Electronics,Laptops,East,Mobile App,Card,1,89.13,10.0,80.22,9.02,New
+201256,2023-06-14,Electronics,Audio,East,Mobile App,Card,3,60.51,15.0,154.3,24.4,Returning
+201257,2022-10-28,Electronics,Phones,North,Online,Card,1,160.45,10.0,144.41,34.66,New
+201258,2023-01-17,Sports,Fitness,East,Mobile App,COD,3,56.84,20.0,136.42,14.22,New
+201259,2023-08-13,Home & Kitchen,Furniture,South,Mobile App,COD,1,31.44,5.0,29.87,6.78,New
+201260,2022-02-11,Sports,Outdoor,South,Marketplace,UPI,1,253.46,5.0,240.79,14.95,Returning
+201261,2022-08-27,Fashion,Kids,North,Online,COD,1,350.84,20.0,280.67,27.01,New
+201262,2022-04-06,Electronics,Accessories,North,Retail,Card,1,86.43,15.0,73.47,14.4,New
+201263,2023-10-27,Fashion,Men,South,Online,Card,1,87.8,5.0,83.41,17.23,New
+201264,2023-01-17,Electronics,Laptops,South,Online,Card,2,83.85,0.0,167.7,17.0,Returning
+201265,2022-10-24,Home & Kitchen,Kitchenware,West,Online,COD,1,187.87,15.0,159.69,7.53,New
+201266,2022-08-11,Electronics,Laptops,South,Marketplace,COD,1,111.46,0.0,111.46,17.75,Returning
+201267,2023-02-28,Fashion,Kids,North,Retail,Card,1,256.93,15.0,218.39,25.99,New
+201268,2023-09-23,Home & Kitchen,Decor,North,Marketplace,Card,1,45.11,0.0,45.11,3.09,New
+201269,2022-03-23,Home & Kitchen,Kitchenware,South,Online,COD,1,31.49,15.0,26.77,4.71,Returning
+201270,2023-05-09,Electronics,Laptops,West,Retail,Card,1,156.51,20.0,125.21,37.73,New
+201271,2022-03-27,Fashion,Kids,East,Online,UPI,1,42.18,0.0,42.18,7.14,Returning
+201272,2023-02-23,Home & Kitchen,Kitchenware,North,Online,UPI,1,29.32,5.0,27.85,8.49,New
+201273,2022-06-25,Health,Personal Care,East,Online,Card,2,406.7,15.0,691.39,73.2,New
+201274,2023-08-09,Fashion,Men,South,Mobile App,Card,3,215.5,20.0,517.2,58.43,New
+201275,2023-11-23,Home & Kitchen,Decor,West,Retail,Card,2,85.29,0.0,170.58,37.49,Returning
+201276,2023-09-03,Health,Supplements,North,Mobile App,COD,1,148.75,25.0,111.56,4.87,Returning
+201277,2023-10-16,Health,Personal Care,East,Retail,Card,1,40.59,0.0,40.59,7.77,VIP
+201278,2023-06-16,Home & Kitchen,Decor,West,Online,Card,2,241.21,20.0,385.94,68.94,Returning
+201279,2023-02-12,Sports,Outdoor,North,Online,Card,1,26.86,0.0,26.86,2.99,New
+201280,2023-12-19,Sports,Outdoor,South,Online,Netbanking,1,102.94,5.0,97.79,24.21,Returning
+201281,2022-01-12,Electronics,Audio,South,Mobile App,Card,2,169.72,5.0,322.47,49.1,Returning
+201282,2022-09-16,Fashion,Kids,North,Online,COD,2,25.66,0.0,51.32,10.0,New
+201283,2023-07-23,Electronics,Laptops,West,Retail,Netbanking,2,68.74,0.0,137.48,13.95,New
+201284,2023-06-27,Health,Supplements,North,Marketplace,UPI,3,160.71,10.0,433.92,70.52,Returning
+201285,2022-08-08,Home & Kitchen,Decor,West,Mobile App,UPI,1,84.52,15.0,71.84,2.95,Returning
+201286,2022-04-21,Home & Kitchen,Furniture,South,Retail,COD,3,203.1,0.0,609.3,108.36,Returning
+201287,2023-06-03,Home & Kitchen,Furniture,South,Retail,Card,2,136.08,15.0,231.34,52.07,New
+201288,2023-11-13,Electronics,Phones,South,Retail,UPI,1,123.0,15.0,104.55,9.48,VIP
+201289,2023-12-01,Fashion,Women,North,Online,UPI,2,177.37,25.0,266.06,9.85,Returning
+201290,2022-05-10,Home & Kitchen,Kitchenware,West,Retail,Card,3,295.65,20.0,709.56,131.06,VIP
+201291,2022-09-15,Home & Kitchen,Kitchenware,South,Online,Card,3,105.25,0.0,315.75,80.16,Returning
+201292,2023-03-15,Home & Kitchen,Furniture,West,Online,Card,1,127.38,5.0,121.01,4.29,New
+201293,2023-06-02,Home & Kitchen,Decor,North,Online,COD,3,197.63,0.0,592.89,200.8,VIP
+201294,2023-08-31,Home & Kitchen,Furniture,South,Online,Card,1,73.94,0.0,73.94,24.94,Returning
+201295,2022-06-09,Sports,Outdoor,East,Retail,Card,2,37.92,0.0,75.84,11.66,Returning
+201296,2022-02-07,Sports,Outdoor,South,Online,Card,1,138.11,20.0,110.49,16.97,Returning
+201297,2022-12-15,Home & Kitchen,Kitchenware,South,Marketplace,Netbanking,2,139.75,10.0,251.55,48.44,VIP
+201298,2023-06-16,Electronics,Audio,North,Mobile App,UPI,1,110.37,10.0,99.33,14.54,New
+201299,2022-09-09,Fashion,Men,East,Online,Netbanking,1,104.44,0.0,104.44,21.46,Returning
+201300,2023-04-05,Home & Kitchen,Decor,South,Online,Card,1,123.04,5.0,116.89,3.02,Returning
+201301,2022-07-06,Health,Personal Care,East,Online,Netbanking,1,28.18,10.0,25.36,7.7,New
+201302,2023-06-06,Home & Kitchen,Decor,East,Marketplace,Card,3,171.91,20.0,412.58,49.91,Returning
+201303,2023-05-05,Fashion,Women,North,Marketplace,Card,1,188.51,25.0,141.38,17.14,New
+201304,2022-05-14,Fashion,Kids,North,Mobile App,Card,1,73.65,15.0,62.6,7.07,Returning
+201305,2022-03-25,Home & Kitchen,Furniture,South,Online,COD,1,43.52,5.0,41.34,0.41,VIP
+201306,2023-12-25,Home & Kitchen,Furniture,North,Online,Card,2,43.13,0.0,86.26,20.58,New
+201307,2023-07-13,Electronics,Accessories,West,Retail,COD,1,171.56,5.0,162.98,31.24,Returning
+201308,2023-02-06,Sports,Fitness,North,Retail,UPI,2,58.79,15.0,99.94,21.75,Returning
+201309,2022-04-14,Fashion,Kids,South,Retail,Card,1,28.53,25.0,21.4,2.09,Returning
+201310,2023-03-07,Sports,Fitness,East,Mobile App,Card,1,121.95,20.0,97.56,12.28,Returning
+201311,2023-12-26,Electronics,Laptops,South,Online,Card,1,220.25,20.0,176.2,1.76,New
+201312,2023-06-28,Electronics,Phones,West,Marketplace,Card,1,185.88,10.0,167.29,13.47,New
+201313,2023-05-21,Sports,Outdoor,East,Online,Netbanking,1,161.32,10.0,145.19,27.83,Returning
+201314,2022-05-18,Sports,Fitness,West,Retail,Card,1,30.64,5.0,29.11,4.3,Returning
+201315,2022-06-09,Fashion,Kids,West,Retail,Netbanking,2,82.55,15.0,140.33,25.86,Returning
+201316,2023-10-07,Home & Kitchen,Decor,West,Mobile App,Card,1,46.1,15.0,39.19,5.46,Returning
+201317,2023-11-16,Home & Kitchen,Kitchenware,East,Online,Card,3,66.04,0.0,198.12,51.73,New
+201318,2022-03-08,Sports,Fitness,South,Online,UPI,1,33.22,0.0,33.22,11.24,New
+201319,2023-11-19,Electronics,Laptops,East,Mobile App,Card,2,199.93,15.0,339.88,3.4,New
+201320,2022-06-08,Electronics,Phones,South,Online,UPI,1,96.87,0.0,96.87,17.66,Returning
+201321,2023-04-26,Fashion,Kids,South,Marketplace,Card,2,78.99,10.0,142.18,15.65,Returning
+201322,2022-09-22,Electronics,Phones,East,Retail,Card,1,184.55,15.0,156.87,14.46,Returning
+201323,2022-01-19,Fashion,Kids,West,Retail,Card,2,71.21,10.0,128.18,39.23,Returning
+201324,2022-06-30,Home & Kitchen,Furniture,North,Online,UPI,3,85.27,0.0,255.81,54.4,New
+201325,2022-05-18,Home & Kitchen,Kitchenware,West,Marketplace,Card,1,54.53,10.0,49.08,9.99,New
+201326,2022-10-04,Fashion,Women,North,Online,Card,2,154.56,0.0,309.12,81.93,New
+201327,2023-01-10,Electronics,Accessories,West,Online,Netbanking,1,166.0,0.0,166.0,47.38,New
+201328,2023-09-26,Health,Personal Care,South,Online,Card,1,214.22,15.0,182.09,39.16,VIP
+201329,2023-07-01,Home & Kitchen,Kitchenware,North,Retail,UPI,3,97.42,5.0,277.65,51.82,New
+201330,2022-10-16,Electronics,Phones,West,Online,Netbanking,2,76.34,25.0,114.51,10.93,Returning
+201331,2022-07-15,Electronics,Phones,South,Mobile App,Netbanking,1,351.55,0.0,351.55,56.45,Returning
+201332,2023-01-30,Health,Supplements,North,Mobile App,Card,1,391.53,15.0,332.8,26.96,New
+201333,2023-04-28,Home & Kitchen,Kitchenware,North,Mobile App,Card,1,62.82,25.0,47.12,0.47,Returning
+201334,2023-05-13,Health,Personal Care,North,Online,Netbanking,3,68.86,15.0,175.59,20.59,New
+201335,2022-02-25,Sports,Fitness,East,Online,UPI,2,49.03,10.0,88.25,14.47,New
+201336,2023-07-25,Fashion,Men,West,Marketplace,COD,1,25.32,0.0,25.32,7.59,New
+201337,2023-06-18,Electronics,Audio,West,Marketplace,Card,2,109.7,20.0,175.52,20.77,Returning
+201338,2022-12-09,Fashion,Women,North,Retail,UPI,1,83.3,0.0,83.3,21.12,Returning
+201339,2023-12-21,Sports,Fitness,West,Retail,UPI,1,177.77,15.0,151.1,29.03,Returning
+201340,2022-01-21,Fashion,Kids,West,Retail,Netbanking,3,65.66,0.0,196.98,32.94,New
+201341,2023-06-17,Health,Supplements,West,Mobile App,Card,1,77.32,15.0,65.72,8.89,Returning
+201342,2022-06-11,Fashion,Men,East,Online,Card,1,37.25,10.0,33.52,3.79,New
+201343,2022-12-20,Electronics,Accessories,West,Retail,UPI,2,71.26,5.0,135.39,30.63,Returning
+201344,2023-08-16,Home & Kitchen,Decor,South,Online,UPI,1,31.0,0.0,31.0,6.97,New
+201345,2022-05-17,Electronics,Audio,South,Online,Card,2,88.72,25.0,133.08,12.89,Returning
+201346,2022-04-15,Electronics,Audio,North,Retail,COD,2,92.02,5.0,174.84,34.66,New
+201347,2022-09-27,Fashion,Kids,North,Retail,Netbanking,2,126.9,5.0,241.11,57.47,Returning
+201348,2022-05-19,Home & Kitchen,Kitchenware,South,Retail,Card,3,39.16,15.0,99.86,2.97,Returning
+201349,2022-01-31,Electronics,Phones,West,Retail,Card,1,153.72,5.0,146.03,29.3,New
+201350,2022-10-24,Sports,Fitness,East,Marketplace,Card,1,27.46,5.0,26.09,5.4,VIP
+201351,2023-07-12,Home & Kitchen,Kitchenware,South,Marketplace,Card,2,211.2,15.0,359.04,5.66,Returning
+201352,2023-05-31,Electronics,Phones,East,Mobile App,Card,2,128.91,0.0,257.82,50.7,New
+201353,2023-10-09,Home & Kitchen,Decor,North,Marketplace,Card,2,144.91,10.0,260.84,53.19,Returning
+201354,2022-11-10,Electronics,Accessories,West,Marketplace,UPI,1,109.43,20.0,87.54,3.32,VIP
+201355,2023-05-07,Fashion,Men,North,Marketplace,Card,1,27.51,25.0,20.63,0.95,Returning
+201356,2023-06-09,Health,Personal Care,South,Retail,UPI,1,28.5,25.0,21.38,1.04,Returning
+201357,2022-02-05,Electronics,Audio,South,Online,Card,2,92.73,0.0,185.46,10.07,New
+201358,2022-09-19,Fashion,Men,North,Marketplace,COD,1,182.73,20.0,146.18,19.23,Returning
+201359,2022-06-20,Fashion,Men,West,Marketplace,Card,1,198.39,15.0,168.63,6.58,Returning
+201360,2022-08-09,Fashion,Women,West,Marketplace,Netbanking,1,100.71,0.0,100.71,19.51,Returning
+201361,2023-11-30,Fashion,Women,North,Retail,Netbanking,2,296.62,0.0,593.24,130.98,Returning
+201362,2023-09-11,Fashion,Kids,South,Online,Card,1,75.06,25.0,56.3,5.35,Returning
+201363,2022-08-01,Electronics,Accessories,West,Mobile App,COD,1,142.64,25.0,106.98,1.07,Returning
+201364,2023-07-17,Electronics,Laptops,South,Mobile App,Card,1,84.33,10.0,75.9,14.26,VIP
+201365,2023-12-31,Electronics,Accessories,North,Retail,Card,1,95.55,0.0,95.55,23.5,Returning
+201366,2022-10-31,Electronics,Accessories,East,Online,Card,3,62.44,0.0,187.32,30.36,New
+201367,2023-06-27,Fashion,Kids,West,Marketplace,Netbanking,2,242.87,5.0,461.45,141.76,Returning
+201368,2022-11-19,Home & Kitchen,Decor,South,Online,Card,1,82.21,0.0,82.21,6.9,New
+201369,2022-08-05,Electronics,Accessories,East,Mobile App,Card,2,144.96,20.0,231.94,32.19,VIP
+201370,2022-03-14,Health,Personal Care,North,Mobile App,COD,1,76.51,10.0,68.86,8.72,Returning
+201371,2023-10-25,Health,Personal Care,West,Mobile App,Card,1,323.11,5.0,306.95,58.32,VIP
+201372,2023-06-03,Home & Kitchen,Kitchenware,West,Retail,UPI,2,116.47,0.0,232.94,73.43,VIP
+201373,2023-09-18,Electronics,Audio,East,Retail,UPI,3,410.71,15.0,1047.31,149.66,VIP
+201374,2022-02-06,Health,Supplements,West,Online,Netbanking,1,105.99,25.0,79.49,5.04,Returning
+201375,2023-06-07,Electronics,Accessories,East,Retail,Card,1,115.79,5.0,110.0,24.27,New
+201376,2023-09-21,Electronics,Audio,West,Online,Card,1,83.01,0.0,83.01,12.47,New
+201377,2023-10-10,Electronics,Accessories,North,Online,Card,1,237.74,20.0,190.19,11.96,New
+201378,2022-10-24,Electronics,Laptops,West,Mobile App,UPI,1,163.31,10.0,146.98,25.11,Returning
+201379,2022-03-01,Fashion,Kids,West,Online,UPI,1,90.8,0.0,90.8,7.48,Returning
+201380,2022-02-06,Sports,Outdoor,North,Marketplace,Card,1,183.97,15.0,156.37,4.26,New
+201381,2022-12-16,Health,Supplements,West,Marketplace,Netbanking,2,343.43,10.0,618.17,152.49,Returning
+201382,2023-06-07,Sports,Outdoor,West,Online,Card,1,95.38,5.0,90.61,8.74,New
+201383,2023-10-09,Electronics,Phones,North,Mobile App,Card,1,126.84,0.0,126.84,22.9,New
+201384,2022-05-20,Electronics,Phones,North,Online,Card,3,148.53,20.0,356.47,78.03,Returning
+201385,2023-05-09,Fashion,Men,East,Retail,Card,3,38.14,15.0,97.26,18.22,Returning
+201386,2023-01-18,Fashion,Kids,North,Online,Card,1,82.54,15.0,70.16,6.98,New
+201387,2023-04-18,Electronics,Phones,South,Online,Card,3,139.51,0.0,418.53,143.15,New
+201388,2022-03-08,Electronics,Laptops,North,Marketplace,Card,3,124.17,5.0,353.88,54.44,Returning
+201389,2023-06-01,Sports,Fitness,North,Marketplace,Card,1,73.28,20.0,58.62,5.77,New
+201390,2023-08-28,Electronics,Laptops,East,Retail,UPI,3,92.33,10.0,249.29,30.4,New
+201391,2023-06-07,Fashion,Men,North,Online,Card,3,91.03,0.0,273.09,53.55,New
+201392,2023-08-19,Electronics,Audio,East,Mobile App,Card,2,125.81,15.0,213.88,53.28,Returning
+201393,2022-04-04,Fashion,Men,East,Mobile App,Card,2,79.6,20.0,127.36,13.38,Returning
+201394,2022-12-09,Fashion,Men,North,Online,COD,3,52.48,10.0,141.7,31.39,New
+201395,2023-10-30,Sports,Fitness,South,Marketplace,UPI,1,59.71,5.0,56.72,8.95,Returning
+201396,2023-10-22,Fashion,Women,East,Online,Card,1,152.0,10.0,136.8,20.12,New
+201397,2023-02-11,Health,Supplements,South,Retail,Card,3,244.99,0.0,734.97,139.26,VIP
+201398,2022-07-06,Health,Personal Care,West,Marketplace,Card,1,149.96,25.0,112.47,2.83,Returning
+201399,2023-12-03,Electronics,Audio,West,Online,Card,1,247.45,10.0,222.7,48.76,Returning
+201400,2022-06-11,Fashion,Women,East,Online,Netbanking,3,35.19,20.0,84.46,9.11,VIP
+201401,2022-01-15,Electronics,Phones,West,Marketplace,Netbanking,3,66.71,20.0,160.1,10.11,Returning
+201402,2023-10-13,Fashion,Women,West,Online,UPI,1,78.98,0.0,78.98,22.52,Returning
+201403,2022-05-26,Fashion,Women,South,Online,Card,1,44.58,0.0,44.58,9.66,New
+201404,2022-11-21,Electronics,Phones,West,Mobile App,COD,1,108.85,15.0,92.52,20.42,New
+201405,2022-06-27,Home & Kitchen,Furniture,West,Online,Card,1,35.23,0.0,35.23,10.43,Returning
+201406,2023-02-13,Electronics,Accessories,North,Online,Card,2,126.37,25.0,189.56,54.87,New
+201407,2022-10-07,Fashion,Men,South,Retail,UPI,3,26.77,5.0,76.29,0.76,New
+201408,2023-10-29,Electronics,Laptops,East,Mobile App,Netbanking,2,84.72,20.0,135.55,26.1,Returning
+201409,2022-05-07,Health,Supplements,North,Online,Card,3,35.9,0.0,107.7,25.18,Returning
+201410,2022-12-21,Electronics,Audio,West,Mobile App,UPI,1,167.16,20.0,133.73,24.49,Returning
+201411,2023-01-27,Sports,Fitness,North,Mobile App,Netbanking,2,206.57,0.0,413.14,109.71,New
+201412,2022-10-20,Health,Personal Care,East,Mobile App,Netbanking,2,803.52,0.0,1607.04,311.35,New
+201413,2023-03-24,Fashion,Kids,South,Online,Netbanking,1,178.4,25.0,133.8,1.34,Returning
+201414,2022-06-12,Home & Kitchen,Kitchenware,West,Online,Card,3,32.78,0.0,98.34,12.84,Returning
+201415,2023-09-22,Fashion,Women,East,Online,UPI,1,96.46,0.0,96.46,15.52,New
+201416,2023-10-06,Home & Kitchen,Kitchenware,West,Marketplace,Card,1,202.53,0.0,202.53,44.89,VIP
+201417,2022-04-03,Fashion,Men,North,Online,Netbanking,1,42.76,25.0,32.07,5.34,New
+201418,2022-05-09,Electronics,Audio,North,Mobile App,Card,2,96.32,0.0,192.64,34.41,Returning
+201419,2023-10-03,Home & Kitchen,Kitchenware,South,Retail,Card,2,130.83,0.0,261.66,37.21,New
+201420,2023-10-10,Electronics,Audio,West,Mobile App,Card,3,72.16,20.0,173.18,17.18,Returning
+201421,2023-01-27,Electronics,Audio,South,Online,UPI,1,113.4,25.0,85.05,8.18,New
+201422,2023-04-04,Fashion,Women,West,Online,COD,1,32.31,15.0,27.46,1.85,Returning
+201423,2023-10-27,Electronics,Phones,East,Retail,Card,3,118.19,25.0,265.93,44.91,Returning
+201424,2023-05-08,Fashion,Men,South,Online,Card,1,51.0,0.0,51.0,8.79,New
+201425,2022-11-02,Sports,Fitness,South,Marketplace,Card,2,171.66,15.0,291.82,68.68,New
+201426,2022-08-22,Sports,Outdoor,East,Online,UPI,1,158.18,15.0,134.45,10.51,VIP
+201427,2022-09-19,Fashion,Women,East,Online,Netbanking,3,67.86,25.0,152.69,14.78,Returning
+201428,2022-01-17,Home & Kitchen,Kitchenware,South,Online,UPI,2,52.3,15.0,88.91,23.36,Returning
+201429,2023-08-18,Fashion,Women,West,Online,Card,1,42.05,5.0,39.95,9.34,New
+201430,2022-09-08,Health,Supplements,South,Mobile App,Netbanking,1,45.09,0.0,45.09,6.38,Returning
+201431,2022-04-10,Fashion,Kids,East,Retail,Netbanking,3,79.39,10.0,214.35,5.33,Returning
+201432,2023-10-29,Health,Supplements,South,Online,Netbanking,1,377.93,5.0,359.03,112.22,Returning
+201433,2022-02-02,Electronics,Accessories,South,Retail,Card,1,94.99,0.0,94.99,22.5,VIP
+201434,2022-12-28,Electronics,Laptops,South,Online,Netbanking,1,67.14,20.0,53.71,11.77,New
+201435,2023-08-22,Fashion,Women,East,Mobile App,UPI,1,73.17,20.0,58.54,6.36,Returning
+201436,2023-12-03,Electronics,Audio,South,Mobile App,COD,1,141.29,0.0,141.29,20.93,Returning
+201437,2022-05-29,Sports,Outdoor,East,Retail,Card,1,36.66,25.0,27.49,1.31,New
+201438,2022-07-05,Sports,Fitness,South,Online,Netbanking,1,218.32,5.0,207.4,47.44,Returning
+201439,2022-11-10,Home & Kitchen,Kitchenware,West,Online,UPI,3,345.24,10.0,932.15,17.98,Returning
+201440,2022-02-06,Sports,Outdoor,East,Online,Netbanking,2,141.84,15.0,241.13,46.93,New
+201441,2023-04-08,Health,Supplements,South,Mobile App,Netbanking,3,154.73,10.0,417.77,4.18,Returning
+201442,2023-02-03,Electronics,Audio,East,Marketplace,Card,3,144.71,0.0,434.13,137.32,New
+201443,2022-09-23,Electronics,Laptops,North,Marketplace,Card,2,222.92,0.0,445.84,76.69,Returning
+201444,2022-03-01,Fashion,Women,South,Retail,Card,1,64.74,10.0,58.27,19.98,New
+201445,2022-06-19,Sports,Fitness,South,Marketplace,UPI,1,91.05,25.0,68.29,14.23,New
+201446,2023-09-23,Electronics,Laptops,North,Mobile App,Card,2,72.51,0.0,145.02,30.31,Returning
+201447,2022-11-01,Health,Supplements,East,Mobile App,Card,2,39.34,5.0,74.75,7.91,Returning
+201448,2023-07-15,Fashion,Women,North,Mobile App,UPI,1,76.47,20.0,61.18,11.48,New
+201449,2023-11-12,Home & Kitchen,Furniture,East,Online,Card,3,38.35,10.0,103.55,19.47,New
+201450,2023-08-07,Fashion,Men,North,Mobile App,COD,1,82.38,0.0,82.38,22.83,New
+201451,2023-09-05,Sports,Outdoor,West,Online,COD,2,176.92,15.0,300.76,49.46,Returning
+201452,2023-05-23,Home & Kitchen,Kitchenware,West,Online,Card,1,69.41,0.0,69.41,9.05,Returning
+201453,2022-08-07,Health,Supplements,East,Online,UPI,1,194.15,5.0,184.44,23.96,Returning
+201454,2023-10-02,Home & Kitchen,Furniture,South,Mobile App,Card,3,68.68,15.0,175.13,22.91,VIP
+201455,2023-01-03,Fashion,Men,East,Online,Card,3,35.88,25.0,80.73,19.65,Returning
+201456,2023-05-15,Sports,Fitness,East,Online,Netbanking,1,285.73,20.0,228.58,18.92,Returning
+201457,2022-11-06,Electronics,Phones,West,Mobile App,Card,3,106.58,15.0,271.78,10.58,New
+201458,2022-10-07,Electronics,Phones,West,Online,UPI,2,141.35,15.0,240.29,55.91,Returning
+201459,2022-04-25,Fashion,Kids,South,Mobile App,Card,1,52.14,15.0,44.32,4.23,New
+201460,2022-10-23,Health,Personal Care,South,Online,Card,2,35.79,0.0,71.58,21.82,New
+201461,2022-11-01,Health,Supplements,South,Online,Card,1,100.47,15.0,85.4,11.31,VIP
+201462,2022-08-04,Health,Personal Care,North,Online,Netbanking,1,37.72,15.0,32.06,2.58,Returning
+201463,2023-03-02,Sports,Outdoor,South,Online,Card,1,120.0,0.0,120.0,37.26,Returning
+201464,2023-11-19,Sports,Fitness,West,Online,COD,1,119.16,25.0,89.37,6.02,Returning
+201465,2023-05-24,Health,Supplements,North,Mobile App,Card,3,71.34,5.0,203.32,35.62,Returning
+201466,2023-03-05,Sports,Fitness,South,Online,Card,1,93.78,25.0,70.34,0.7,VIP
+201467,2023-11-14,Fashion,Kids,North,Online,Netbanking,1,28.57,0.0,28.57,7.72,Returning
+201468,2022-07-07,Sports,Fitness,West,Online,Card,2,121.81,15.0,207.08,19.88,Returning
+201469,2023-10-21,Sports,Fitness,South,Online,Card,3,60.89,25.0,137.0,41.12,New
+201470,2023-06-26,Electronics,Laptops,South,Mobile App,Card,1,96.48,0.0,96.48,22.95,New
+201471,2023-06-30,Home & Kitchen,Kitchenware,North,Retail,COD,2,86.78,25.0,130.17,9.87,Returning
+201472,2022-05-31,Electronics,Phones,West,Online,COD,3,106.63,15.0,271.91,61.29,Returning
+201473,2023-01-19,Electronics,Accessories,West,Mobile App,COD,2,168.59,15.0,286.6,17.25,Returning
+201474,2022-11-18,Fashion,Kids,West,Retail,Card,3,67.8,15.0,172.89,1.73,Returning
+201475,2022-06-26,Sports,Outdoor,South,Marketplace,Netbanking,2,308.3,5.0,585.77,39.88,New
+201476,2023-07-02,Electronics,Audio,North,Online,COD,1,103.98,10.0,93.58,17.52,New
+201477,2023-08-22,Fashion,Women,West,Online,Card,1,47.58,25.0,35.69,4.57,New
+201478,2023-04-22,Electronics,Laptops,South,Online,UPI,1,115.88,15.0,98.5,18.18,New
+201479,2022-01-27,Electronics,Audio,East,Online,Netbanking,1,65.61,20.0,52.49,5.34,New
+201480,2022-08-06,Electronics,Phones,North,Mobile App,Card,3,119.43,20.0,286.63,10.78,Returning
+201481,2023-04-11,Electronics,Phones,South,Marketplace,Card,1,227.83,25.0,170.87,35.65,New
+201482,2023-01-21,Fashion,Kids,West,Online,Card,1,220.33,25.0,165.25,12.59,New
+201483,2022-10-04,Fashion,Women,West,Retail,Card,1,44.29,0.0,44.29,13.36,Returning
+201484,2023-03-18,Fashion,Women,South,Mobile App,Card,1,128.16,0.0,128.16,8.52,Returning
+201485,2022-06-07,Sports,Fitness,East,Marketplace,UPI,2,115.5,10.0,207.9,26.71,Returning
+201486,2023-12-03,Sports,Outdoor,South,Retail,COD,1,93.04,25.0,69.78,6.19,New
+201487,2022-05-05,Fashion,Women,South,Mobile App,Card,2,27.07,0.0,54.14,8.14,New
+201488,2022-10-26,Fashion,Women,North,Online,UPI,3,157.82,0.0,473.46,112.81,Returning
+201489,2023-11-29,Electronics,Laptops,North,Retail,Card,1,68.02,0.0,68.02,16.98,New
+201490,2022-06-30,Electronics,Phones,East,Mobile App,Card,2,124.87,25.0,187.31,12.6,Returning
+201491,2023-05-10,Fashion,Men,West,Online,Netbanking,2,347.27,20.0,555.63,189.06,Returning
+201492,2022-06-04,Electronics,Phones,South,Online,Card,1,286.58,5.0,272.25,58.14,New
+201493,2023-11-05,Fashion,Men,West,Online,Card,1,30.86,15.0,26.23,0.97,Returning
+201494,2023-12-18,Home & Kitchen,Furniture,West,Online,Card,1,54.17,10.0,48.75,9.36,Returning
+201495,2022-08-31,Home & Kitchen,Kitchenware,West,Retail,Card,3,309.55,25.0,696.49,33.34,New
+201496,2023-11-14,Health,Personal Care,South,Retail,Card,1,75.61,0.0,75.61,32.48,New
+201497,2023-06-10,Electronics,Laptops,South,Online,Card,2,86.45,0.0,172.9,33.65,Returning
+201498,2022-09-06,Electronics,Phones,East,Mobile App,COD,3,96.83,5.0,275.97,51.97,Returning
+201499,2023-05-31,Health,Personal Care,West,Online,Card,1,115.36,5.0,109.59,23.01,New
